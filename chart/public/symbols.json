@@ -1,0 +1,6662 @@
+[
+  {
+    "key": "20MICRONS.NS",
+    "value": "20MICRONS.NS"
+  },
+  {
+    "key": "21STCENMGM.NS",
+    "value": "21STCENMGM.NS"
+  },
+  {
+    "key": "3IINFOTECH.NS",
+    "value": "3IINFOTECH.NS"
+  },
+  {
+    "key": "3MINDIA.NS",
+    "value": "3MINDIA.NS"
+  },
+  {
+    "key": "3PLAND.NS",
+    "value": "3PLAND.NS"
+  },
+  {
+    "key": "5PAISA.NS",
+    "value": "5PAISA.NS"
+  },
+  {
+    "key": "63MOONS.NS",
+    "value": "63MOONS.NS"
+  },
+  {
+    "key": "8KMILES.NS",
+    "value": "8KMILES.NS"
+  },
+  {
+    "key": "A2ZINFRA.NS",
+    "value": "A2ZINFRA.NS"
+  },
+  {
+    "key": "AAKASH.NS",
+    "value": "AAKASH.NS"
+  },
+  {
+    "key": "AARON.NS",
+    "value": "AARON.NS"
+  },
+  {
+    "key": "AARTIDRUGS.NS",
+    "value": "AARTIDRUGS.NS"
+  },
+  {
+    "key": "AARTIIND.NS",
+    "value": "AARTIIND.NS"
+  },
+  {
+    "key": "AARTISURF.NS",
+    "value": "AARTISURF.NS"
+  },
+  {
+    "key": "AARVEEDEN.NS",
+    "value": "AARVEEDEN.NS"
+  },
+  {
+    "key": "AARVI.NS",
+    "value": "AARVI.NS"
+  },
+  {
+    "key": "AAVAS.NS",
+    "value": "AAVAS.NS"
+  },
+  {
+    "key": "ABAN.NS",
+    "value": "ABAN.NS"
+  },
+  {
+    "key": "ABB.NS",
+    "value": "ABB.NS"
+  },
+  {
+    "key": "ABBOTINDIA.NS",
+    "value": "ABBOTINDIA.NS"
+  },
+  {
+    "key": "ABCAPITAL.NS",
+    "value": "ABCAPITAL.NS"
+  },
+  {
+    "key": "ABFRL.NS",
+    "value": "ABFRL.NS"
+  },
+  {
+    "key": "ABMINTLTD.NS",
+    "value": "ABMINTLTD.NS"
+  },
+  {
+    "key": "ACC.NS",
+    "value": "ACC.NS"
+  },
+  {
+    "key": "ACCELYA.NS",
+    "value": "ACCELYA.NS"
+  },
+  {
+    "key": "ACCURACY.NS",
+    "value": "ACCURACY.NS"
+  },
+  {
+    "key": "ACE.NS",
+    "value": "ACE.NS"
+  },
+  {
+    "key": "ACRYSIL.NS",
+    "value": "ACRYSIL.NS"
+  },
+  {
+    "key": "ADANIENT.NS",
+    "value": "ADANIENT.NS"
+  },
+  {
+    "key": "ADANIGREEN.NS",
+    "value": "ADANIGREEN.NS"
+  },
+  {
+    "key": "ADANIPORTS.NS",
+    "value": "ADANIPORTS.NS"
+  },
+  {
+    "key": "ADANIPOWER.NS",
+    "value": "ADANIPOWER.NS"
+  },
+  {
+    "key": "ADANITRANS.NS",
+    "value": "ADANITRANS.NS"
+  },
+  {
+    "key": "ADFFOODS.NS",
+    "value": "ADFFOODS.NS"
+  },
+  {
+    "key": "ADHUNIKIND.NS",
+    "value": "ADHUNIKIND.NS"
+  },
+  {
+    "key": "ADL.NS",
+    "value": "ADL.NS"
+  },
+  {
+    "key": "ADORWELD.NS",
+    "value": "ADORWELD.NS"
+  },
+  {
+    "key": "ADROITINFO.NS",
+    "value": "ADROITINFO.NS"
+  },
+  {
+    "key": "ADSL.NS",
+    "value": "ADSL.NS"
+  },
+  {
+    "key": "ADVANIHOTR.NS",
+    "value": "ADVANIHOTR.NS"
+  },
+  {
+    "key": "ADVENZYMES.NS",
+    "value": "ADVENZYMES.NS"
+  },
+  {
+    "key": "AEGISCHEM.NS",
+    "value": "AEGISCHEM.NS"
+  },
+  {
+    "key": "AFFLE.NS",
+    "value": "AFFLE.NS"
+  },
+  {
+    "key": "AGARIND.NS",
+    "value": "AGARIND.NS"
+  },
+  {
+    "key": "AGCNET.NS",
+    "value": "AGCNET.NS"
+  },
+  {
+    "key": "AGRITECH.NS",
+    "value": "AGRITECH.NS"
+  },
+  {
+    "key": "AGROPHOS.NS",
+    "value": "AGROPHOS.NS"
+  },
+  {
+    "key": "AHLEAST.NS",
+    "value": "AHLEAST.NS"
+  },
+  {
+    "key": "AHLUCONT.NS",
+    "value": "AHLUCONT.NS"
+  },
+  {
+    "key": "AHLWEST.NS",
+    "value": "AHLWEST.NS"
+  },
+  {
+    "key": "AIAENG.NS",
+    "value": "AIAENG.NS"
+  },
+  {
+    "key": "AIRAN.NS",
+    "value": "AIRAN.NS"
+  },
+  {
+    "key": "AJANTPHARM.NS",
+    "value": "AJANTPHARM.NS"
+  },
+  {
+    "key": "AJMERA.NS",
+    "value": "AJMERA.NS"
+  },
+  {
+    "key": "AKASH.NS",
+    "value": "AKASH.NS"
+  },
+  {
+    "key": "AKSHARCHEM.NS",
+    "value": "AKSHARCHEM.NS"
+  },
+  {
+    "key": "AKSHOPTFBR.NS",
+    "value": "AKSHOPTFBR.NS"
+  },
+  {
+    "key": "AKZOINDIA.NS",
+    "value": "AKZOINDIA.NS"
+  },
+  {
+    "key": "ALANKIT.NS",
+    "value": "ALANKIT.NS"
+  },
+  {
+    "key": "ALBERTDAVD.NS",
+    "value": "ALBERTDAVD.NS"
+  },
+  {
+    "key": "ALCHEM.NS",
+    "value": "ALCHEM.NS"
+  },
+  {
+    "key": "ALEMBICLTD.NS",
+    "value": "ALEMBICLTD.NS"
+  },
+  {
+    "key": "ALICON.NS",
+    "value": "ALICON.NS"
+  },
+  {
+    "key": "ALKALI.NS",
+    "value": "ALKALI.NS"
+  },
+  {
+    "key": "ALKEM.NS",
+    "value": "ALKEM.NS"
+  },
+  {
+    "key": "ALKYLAMINE.NS",
+    "value": "ALKYLAMINE.NS"
+  },
+  {
+    "key": "ALLCARGO.NS",
+    "value": "ALLCARGO.NS"
+  },
+  {
+    "key": "ALLSEC.NS",
+    "value": "ALLSEC.NS"
+  },
+  {
+    "key": "ALMONDZ.NS",
+    "value": "ALMONDZ.NS"
+  },
+  {
+    "key": "ALOKINDS.NS",
+    "value": "ALOKINDS.NS"
+  },
+  {
+    "key": "ALPA.NS",
+    "value": "ALPA.NS"
+  },
+  {
+    "key": "ALPHAGEO.NS",
+    "value": "ALPHAGEO.NS"
+  },
+  {
+    "key": "ALPSINDUS.NS",
+    "value": "ALPSINDUS.NS"
+  },
+  {
+    "key": "AMARAJABAT.NS",
+    "value": "AMARAJABAT.NS"
+  },
+  {
+    "key": "AMBER.NS",
+    "value": "AMBER.NS"
+  },
+  {
+    "key": "AMBIKCO.NS",
+    "value": "AMBIKCO.NS"
+  },
+  {
+    "key": "AMBUJACEM.NS",
+    "value": "AMBUJACEM.NS"
+  },
+  {
+    "key": "AMDIND.NS",
+    "value": "AMDIND.NS"
+  },
+  {
+    "key": "AMJLAND.NS",
+    "value": "AMJLAND.NS"
+  },
+  {
+    "key": "AMRUTANJAN.NS",
+    "value": "AMRUTANJAN.NS"
+  },
+  {
+    "key": "ANANTRAJ.NS",
+    "value": "ANANTRAJ.NS"
+  },
+  {
+    "key": "ANDHRACEMT.NS",
+    "value": "ANDHRACEMT.NS"
+  },
+  {
+    "key": "ANDHRAPAP.NS",
+    "value": "ANDHRAPAP.NS"
+  },
+  {
+    "key": "ANDHRSUGAR.NS",
+    "value": "ANDHRSUGAR.NS"
+  },
+  {
+    "key": "ANGELBRKG.NS",
+    "value": "ANGELBRKG.NS"
+  },
+  {
+    "key": "ANIKINDS.NS",
+    "value": "ANIKINDS.NS"
+  },
+  {
+    "key": "ANKITMETAL.NS",
+    "value": "ANKITMETAL.NS"
+  },
+  {
+    "key": "ANSALAPI.NS",
+    "value": "ANSALAPI.NS"
+  },
+  {
+    "key": "ANSALHSG.NS",
+    "value": "ANSALHSG.NS"
+  },
+  {
+    "key": "ANUP.NS",
+    "value": "ANUP.NS"
+  },
+  {
+    "key": "APARINDS.NS",
+    "value": "APARINDS.NS"
+  },
+  {
+    "key": "APCL.NS",
+    "value": "APCL.NS"
+  },
+  {
+    "key": "APCOTEXIND.NS",
+    "value": "APCOTEXIND.NS"
+  },
+  {
+    "key": "APEX.NS",
+    "value": "APEX.NS"
+  },
+  {
+    "key": "APLAPOLLO.NS",
+    "value": "APLAPOLLO.NS"
+  },
+  {
+    "key": "APLLTD.NS",
+    "value": "APLLTD.NS"
+  },
+  {
+    "key": "APOLLO.NS",
+    "value": "APOLLO.NS"
+  },
+  {
+    "key": "APOLLOHOSP.NS",
+    "value": "APOLLOHOSP.NS"
+  },
+  {
+    "key": "APOLLOPIPE.NS",
+    "value": "APOLLOPIPE.NS"
+  },
+  {
+    "key": "APOLLOTYRE.NS",
+    "value": "APOLLOTYRE.NS"
+  },
+  {
+    "key": "APOLSINHOT.NS",
+    "value": "APOLSINHOT.NS"
+  },
+  {
+    "key": "APTECHT.NS",
+    "value": "APTECHT.NS"
+  },
+  {
+    "key": "ARCHIDPLY.NS",
+    "value": "ARCHIDPLY.NS"
+  },
+  {
+    "key": "ARCHIES.NS",
+    "value": "ARCHIES.NS"
+  },
+  {
+    "key": "ARCOTECH.NS",
+    "value": "ARCOTECH.NS"
+  },
+  {
+    "key": "ARENTERP.NS",
+    "value": "ARENTERP.NS"
+  },
+  {
+    "key": "ARIES.NS",
+    "value": "ARIES.NS"
+  },
+  {
+    "key": "ARIHANT.NS",
+    "value": "ARIHANT.NS"
+  },
+  {
+    "key": "ARIHANTSUP.NS",
+    "value": "ARIHANTSUP.NS"
+  },
+  {
+    "key": "ARMANFIN.NS",
+    "value": "ARMANFIN.NS"
+  },
+  {
+    "key": "AROGRANITE.NS",
+    "value": "AROGRANITE.NS"
+  },
+  {
+    "key": "ARROWGREEN.NS",
+    "value": "ARROWGREEN.NS"
+  },
+  {
+    "key": "ARSHIYA.NS",
+    "value": "ARSHIYA.NS"
+  },
+  {
+    "key": "ARSSINFRA.NS",
+    "value": "ARSSINFRA.NS"
+  },
+  {
+    "key": "ARTEMISMED.NS",
+    "value": "ARTEMISMED.NS"
+  },
+  {
+    "key": "ARVIND.NS",
+    "value": "ARVIND.NS"
+  },
+  {
+    "key": "ARVINDFASN.NS",
+    "value": "ARVINDFASN.NS"
+  },
+  {
+    "key": "ARVSMART.NS",
+    "value": "ARVSMART.NS"
+  },
+  {
+    "key": "ASAHIINDIA.NS",
+    "value": "ASAHIINDIA.NS"
+  },
+  {
+    "key": "ASAHISONG.NS",
+    "value": "ASAHISONG.NS"
+  },
+  {
+    "key": "ASAL.NS",
+    "value": "ASAL.NS"
+  },
+  {
+    "key": "ASALCBR.NS",
+    "value": "ASALCBR.NS"
+  },
+  {
+    "key": "ASHAPURMIN.NS",
+    "value": "ASHAPURMIN.NS"
+  },
+  {
+    "key": "ASHIANA.NS",
+    "value": "ASHIANA.NS"
+  },
+  {
+    "key": "ASHIMASYN.NS",
+    "value": "ASHIMASYN.NS"
+  },
+  {
+    "key": "ASHOKA.NS",
+    "value": "ASHOKA.NS"
+  },
+  {
+    "key": "ASHOKLEY.NS",
+    "value": "ASHOKLEY.NS"
+  },
+  {
+    "key": "ASIANHOTNR.NS",
+    "value": "ASIANHOTNR.NS"
+  },
+  {
+    "key": "ASIANPAINT.NS",
+    "value": "ASIANPAINT.NS"
+  },
+  {
+    "key": "ASIANTILES.NS",
+    "value": "ASIANTILES.NS"
+  },
+  {
+    "key": "ASPINWALL.NS",
+    "value": "ASPINWALL.NS"
+  },
+  {
+    "key": "ASTEC.NS",
+    "value": "ASTEC.NS"
+  },
+  {
+    "key": "ASTERDM.NS",
+    "value": "ASTERDM.NS"
+  },
+  {
+    "key": "ASTRAL.NS",
+    "value": "ASTRAL.NS"
+  },
+  {
+    "key": "ASTRAMICRO.NS",
+    "value": "ASTRAMICRO.NS"
+  },
+  {
+    "key": "ASTRAZEN.NS",
+    "value": "ASTRAZEN.NS"
+  },
+  {
+    "key": "ASTRON.NS",
+    "value": "ASTRON.NS"
+  },
+  {
+    "key": "ATFL.NS",
+    "value": "ATFL.NS"
+  },
+  {
+    "key": "ATGL.NS",
+    "value": "ATGL.NS"
+  },
+  {
+    "key": "ATLANTA.NS",
+    "value": "ATLANTA.NS"
+  },
+  {
+    "key": "ATLASCYCLE.NS",
+    "value": "ATLASCYCLE.NS"
+  },
+  {
+    "key": "ATUL.NS",
+    "value": "ATUL.NS"
+  },
+  {
+    "key": "ATULAUTO.NS",
+    "value": "ATULAUTO.NS"
+  },
+  {
+    "key": "AUBANK.NS",
+    "value": "AUBANK.NS"
+  },
+  {
+    "key": "AURIONPRO.NS",
+    "value": "AURIONPRO.NS"
+  },
+  {
+    "key": "AUROPHARMA.NS",
+    "value": "AUROPHARMA.NS"
+  },
+  {
+    "key": "AUSOMENT.NS",
+    "value": "AUSOMENT.NS"
+  },
+  {
+    "key": "AUTOAXLES.NS",
+    "value": "AUTOAXLES.NS"
+  },
+  {
+    "key": "AUTOIND.NS",
+    "value": "AUTOIND.NS"
+  },
+  {
+    "key": "AUTOLITIND.NS",
+    "value": "AUTOLITIND.NS"
+  },
+  {
+    "key": "AVADHSUGAR.NS",
+    "value": "AVADHSUGAR.NS"
+  },
+  {
+    "key": "AVANTIFEED.NS",
+    "value": "AVANTIFEED.NS"
+  },
+  {
+    "key": "AVTNPL.NS",
+    "value": "AVTNPL.NS"
+  },
+  {
+    "key": "AWHCL.NS",
+    "value": "AWHCL.NS"
+  },
+  {
+    "key": "AXISBANK.NS",
+    "value": "AXISBANK.NS"
+  },
+  {
+    "key": "AXISCADES.NS",
+    "value": "AXISCADES.NS"
+  },
+  {
+    "key": "AYMSYNTEX.NS",
+    "value": "AYMSYNTEX.NS"
+  },
+  {
+    "key": "BAFNAPH.NS",
+    "value": "BAFNAPH.NS"
+  },
+  {
+    "key": "BAGFILMS.NS",
+    "value": "BAGFILMS.NS"
+  },
+  {
+    "key": "BAJAJ-AUTO.NS",
+    "value": "BAJAJ-AUTO.NS"
+  },
+  {
+    "key": "BAJAJCON.NS",
+    "value": "BAJAJCON.NS"
+  },
+  {
+    "key": "BAJAJELEC.NS",
+    "value": "BAJAJELEC.NS"
+  },
+  {
+    "key": "BAJAJFINSV.NS",
+    "value": "BAJAJFINSV.NS"
+  },
+  {
+    "key": "BAJAJHIND.NS",
+    "value": "BAJAJHIND.NS"
+  },
+  {
+    "key": "BAJAJHLDNG.NS",
+    "value": "BAJAJHLDNG.NS"
+  },
+  {
+    "key": "BAJFINANCE.NS",
+    "value": "BAJFINANCE.NS"
+  },
+  {
+    "key": "BALAJITELE.NS",
+    "value": "BALAJITELE.NS"
+  },
+  {
+    "key": "BALAMINES.NS",
+    "value": "BALAMINES.NS"
+  },
+  {
+    "key": "BALAXI.NS",
+    "value": "BALAXI.NS"
+  },
+  {
+    "key": "BALKRISHNA.NS",
+    "value": "BALKRISHNA.NS"
+  },
+  {
+    "key": "BALKRISIND.NS",
+    "value": "BALKRISIND.NS"
+  },
+  {
+    "key": "BALLARPUR.NS",
+    "value": "BALLARPUR.NS"
+  },
+  {
+    "key": "BALMLAWRIE.NS",
+    "value": "BALMLAWRIE.NS"
+  },
+  {
+    "key": "BALPHARMA.NS",
+    "value": "BALPHARMA.NS"
+  },
+  {
+    "key": "BALRAMCHIN.NS",
+    "value": "BALRAMCHIN.NS"
+  },
+  {
+    "key": "BANARBEADS.NS",
+    "value": "BANARBEADS.NS"
+  },
+  {
+    "key": "BANARISUG.NS",
+    "value": "BANARISUG.NS"
+  },
+  {
+    "key": "BANCOINDIA.NS",
+    "value": "BANCOINDIA.NS"
+  },
+  {
+    "key": "BANDHANBNK.NS",
+    "value": "BANDHANBNK.NS"
+  },
+  {
+    "key": "BANG.NS",
+    "value": "BANG.NS"
+  },
+  {
+    "key": "BANKA.NS",
+    "value": "BANKA.NS"
+  },
+  {
+    "key": "BANKBARODA.NS",
+    "value": "BANKBARODA.NS"
+  },
+  {
+    "key": "BANKINDIA.NS",
+    "value": "BANKINDIA.NS"
+  },
+  {
+    "key": "BANSWRAS.NS",
+    "value": "BANSWRAS.NS"
+  },
+  {
+    "key": "BARTRONICS.NS",
+    "value": "BARTRONICS.NS"
+  },
+  {
+    "key": "BASF.NS",
+    "value": "BASF.NS"
+  },
+  {
+    "key": "BASML.NS",
+    "value": "BASML.NS"
+  },
+  {
+    "key": "BATAINDIA.NS",
+    "value": "BATAINDIA.NS"
+  },
+  {
+    "key": "BAYERCROP.NS",
+    "value": "BAYERCROP.NS"
+  },
+  {
+    "key": "BBL.NS",
+    "value": "BBL.NS"
+  },
+  {
+    "key": "BBTC.NS",
+    "value": "BBTC.NS"
+  },
+  {
+    "key": "BCG.NS",
+    "value": "BCG.NS"
+  },
+  {
+    "key": "BCP.NS",
+    "value": "BCP.NS"
+  },
+  {
+    "key": "BDL.NS",
+    "value": "BDL.NS"
+  },
+  {
+    "key": "BEARDSELL.NS",
+    "value": "BEARDSELL.NS"
+  },
+  {
+    "key": "BECTORFOOD.NS",
+    "value": "BECTORFOOD.NS"
+  },
+  {
+    "key": "BEDMUTHA.NS",
+    "value": "BEDMUTHA.NS"
+  },
+  {
+    "key": "BEL.NS",
+    "value": "BEL.NS"
+  },
+  {
+    "key": "BEML.NS",
+    "value": "BEML.NS"
+  },
+  {
+    "key": "BEPL.NS",
+    "value": "BEPL.NS"
+  },
+  {
+    "key": "BERGEPAINT.NS",
+    "value": "BERGEPAINT.NS"
+  },
+  {
+    "key": "BFINVEST.NS",
+    "value": "BFINVEST.NS"
+  },
+  {
+    "key": "BFUTILITIE.NS",
+    "value": "BFUTILITIE.NS"
+  },
+  {
+    "key": "BGRENERGY.NS",
+    "value": "BGRENERGY.NS"
+  },
+  {
+    "key": "BHAGERIA.NS",
+    "value": "BHAGERIA.NS"
+  },
+  {
+    "key": "BHAGYANGR.NS",
+    "value": "BHAGYANGR.NS"
+  },
+  {
+    "key": "BHAGYAPROP.NS",
+    "value": "BHAGYAPROP.NS"
+  },
+  {
+    "key": "BHANDARI.NS",
+    "value": "BHANDARI.NS"
+  },
+  {
+    "key": "BHARATFORG.NS",
+    "value": "BHARATFORG.NS"
+  },
+  {
+    "key": "BHARATGEAR.NS",
+    "value": "BHARATGEAR.NS"
+  },
+  {
+    "key": "BHARATRAS.NS",
+    "value": "BHARATRAS.NS"
+  },
+  {
+    "key": "BHARATWIRE.NS",
+    "value": "BHARATWIRE.NS"
+  },
+  {
+    "key": "BHARTIARTL.NS",
+    "value": "BHARTIARTL.NS"
+  },
+  {
+    "key": "BHEL.NS",
+    "value": "BHEL.NS"
+  },
+  {
+    "key": "BIGBLOC.NS",
+    "value": "BIGBLOC.NS"
+  },
+  {
+    "key": "BIL.NS",
+    "value": "BIL.NS"
+  },
+  {
+    "key": "BILENERGY.NS",
+    "value": "BILENERGY.NS"
+  },
+  {
+    "key": "BINDALAGRO.NS",
+    "value": "BINDALAGRO.NS"
+  },
+  {
+    "key": "BIOCON.NS",
+    "value": "BIOCON.NS"
+  },
+  {
+    "key": "BIOFILCHEM.NS",
+    "value": "BIOFILCHEM.NS"
+  },
+  {
+    "key": "BIRLACABLE.NS",
+    "value": "BIRLACABLE.NS"
+  },
+  {
+    "key": "BIRLACORPN.NS",
+    "value": "BIRLACORPN.NS"
+  },
+  {
+    "key": "BIRLAMONEY.NS",
+    "value": "BIRLAMONEY.NS"
+  },
+  {
+    "key": "BIRLATYRE.NS",
+    "value": "BIRLATYRE.NS"
+  },
+  {
+    "key": "BKMINDST.NS",
+    "value": "BKMINDST.NS"
+  },
+  {
+    "key": "BLBLIMITED.NS",
+    "value": "BLBLIMITED.NS"
+  },
+  {
+    "key": "BLISSGVS.NS",
+    "value": "BLISSGVS.NS"
+  },
+  {
+    "key": "BLKASHYAP.NS",
+    "value": "BLKASHYAP.NS"
+  },
+  {
+    "key": "BLS.NS",
+    "value": "BLS.NS"
+  },
+  {
+    "key": "BLUECOAST.NS",
+    "value": "BLUECOAST.NS"
+  },
+  {
+    "key": "BLUEDART.NS",
+    "value": "BLUEDART.NS"
+  },
+  {
+    "key": "BLUESTARCO.NS",
+    "value": "BLUESTARCO.NS"
+  },
+  {
+    "key": "BODALCHEM.NS",
+    "value": "BODALCHEM.NS"
+  },
+  {
+    "key": "BOMDYEING.NS",
+    "value": "BOMDYEING.NS"
+  },
+  {
+    "key": "BOROLTD.NS",
+    "value": "BOROLTD.NS"
+  },
+  {
+    "key": "BORORENEW.NS",
+    "value": "BORORENEW.NS"
+  },
+  {
+    "key": "BOSCHLTD.NS",
+    "value": "BOSCHLTD.NS"
+  },
+  {
+    "key": "BPCL.NS",
+    "value": "BPCL.NS"
+  },
+  {
+    "key": "BPL.NS",
+    "value": "BPL.NS"
+  },
+  {
+    "key": "BRFL.NS",
+    "value": "BRFL.NS"
+  },
+  {
+    "key": "BRIGADE.NS",
+    "value": "BRIGADE.NS"
+  },
+  {
+    "key": "BRITANNIA.NS",
+    "value": "BRITANNIA.NS"
+  },
+  {
+    "key": "BRNL.NS",
+    "value": "BRNL.NS"
+  },
+  {
+    "key": "BROOKS.NS",
+    "value": "BROOKS.NS"
+  },
+  {
+    "key": "BSE.NS",
+    "value": "BSE.NS"
+  },
+  {
+    "key": "BSELINFRA.NS",
+    "value": "BSELINFRA.NS"
+  },
+  {
+    "key": "BSHSL.NS",
+    "value": "BSHSL.NS"
+  },
+  {
+    "key": "BSL.NS",
+    "value": "BSL.NS"
+  },
+  {
+    "key": "BSOFT.NS",
+    "value": "BSOFT.NS"
+  },
+  {
+    "key": "BURGERKING.NS",
+    "value": "BURGERKING.NS"
+  },
+  {
+    "key": "BURNPUR.NS",
+    "value": "BURNPUR.NS"
+  },
+  {
+    "key": "BUTTERFLY.NS",
+    "value": "BUTTERFLY.NS"
+  },
+  {
+    "key": "BVCL.NS",
+    "value": "BVCL.NS"
+  },
+  {
+    "key": "BYKE.NS",
+    "value": "BYKE.NS"
+  },
+  {
+    "key": "CADILAHC.NS",
+    "value": "CADILAHC.NS"
+  },
+  {
+    "key": "CALSOFT.NS",
+    "value": "CALSOFT.NS"
+  },
+  {
+    "key": "CAMLINFINE.NS",
+    "value": "CAMLINFINE.NS"
+  },
+  {
+    "key": "CAMS.NS",
+    "value": "CAMS.NS"
+  },
+  {
+    "key": "CANBK.NS",
+    "value": "CANBK.NS"
+  },
+  {
+    "key": "CANDC.NS",
+    "value": "CANDC.NS"
+  },
+  {
+    "key": "CANFINHOME.NS",
+    "value": "CANFINHOME.NS"
+  },
+  {
+    "key": "CANTABIL.NS",
+    "value": "CANTABIL.NS"
+  },
+  {
+    "key": "CAPACITE.NS",
+    "value": "CAPACITE.NS"
+  },
+  {
+    "key": "CAPLIPOINT.NS",
+    "value": "CAPLIPOINT.NS"
+  },
+  {
+    "key": "CAPTRUST.NS",
+    "value": "CAPTRUST.NS"
+  },
+  {
+    "key": "CARBORUNIV.NS",
+    "value": "CARBORUNIV.NS"
+  },
+  {
+    "key": "CAREERP.NS",
+    "value": "CAREERP.NS"
+  },
+  {
+    "key": "CARERATING.NS",
+    "value": "CARERATING.NS"
+  },
+  {
+    "key": "CASTROLIND.NS",
+    "value": "CASTROLIND.NS"
+  },
+  {
+    "key": "CCHHL.NS",
+    "value": "CCHHL.NS"
+  },
+  {
+    "key": "CCL.NS",
+    "value": "CCL.NS"
+  },
+  {
+    "key": "CDSL.NS",
+    "value": "CDSL.NS"
+  },
+  {
+    "key": "CEATLTD.NS",
+    "value": "CEATLTD.NS"
+  },
+  {
+    "key": "CEBBCO.NS",
+    "value": "CEBBCO.NS"
+  },
+  {
+    "key": "CELEBRITY.NS",
+    "value": "CELEBRITY.NS"
+  },
+  {
+    "key": "CENTENKA.NS",
+    "value": "CENTENKA.NS"
+  },
+  {
+    "key": "CENTEXT.NS",
+    "value": "CENTEXT.NS"
+  },
+  {
+    "key": "CENTRALBK.NS",
+    "value": "CENTRALBK.NS"
+  },
+  {
+    "key": "CENTRUM.NS",
+    "value": "CENTRUM.NS"
+  },
+  {
+    "key": "CENTUM.NS",
+    "value": "CENTUM.NS"
+  },
+  {
+    "key": "CENTURYPLY.NS",
+    "value": "CENTURYPLY.NS"
+  },
+  {
+    "key": "CENTURYTEX.NS",
+    "value": "CENTURYTEX.NS"
+  },
+  {
+    "key": "CERA.NS",
+    "value": "CERA.NS"
+  },
+  {
+    "key": "CEREBRAINT.NS",
+    "value": "CEREBRAINT.NS"
+  },
+  {
+    "key": "CESC.NS",
+    "value": "CESC.NS"
+  },
+  {
+    "key": "CESCVENT.NS",
+    "value": "CESCVENT.NS"
+  },
+  {
+    "key": "CGCL.NS",
+    "value": "CGCL.NS"
+  },
+  {
+    "key": "CGPOWER.NS",
+    "value": "CGPOWER.NS"
+  },
+  {
+    "key": "CHALET.NS",
+    "value": "CHALET.NS"
+  },
+  {
+    "key": "CHAMBLFERT.NS",
+    "value": "CHAMBLFERT.NS"
+  },
+  {
+    "key": "CHEMBOND.NS",
+    "value": "CHEMBOND.NS"
+  },
+  {
+    "key": "CHEMCON.NS",
+    "value": "CHEMCON.NS"
+  },
+  {
+    "key": "CHEMFAB.NS",
+    "value": "CHEMFAB.NS"
+  },
+  {
+    "key": "CHENNPETRO.NS",
+    "value": "CHENNPETRO.NS"
+  },
+  {
+    "key": "CHOLAFIN.NS",
+    "value": "CHOLAFIN.NS"
+  },
+  {
+    "key": "CHOLAHLDNG.NS",
+    "value": "CHOLAHLDNG.NS"
+  },
+  {
+    "key": "CHROMATIC.NS",
+    "value": "CHROMATIC.NS"
+  },
+  {
+    "key": "CIGNITITEC.NS",
+    "value": "CIGNITITEC.NS"
+  },
+  {
+    "key": "CINELINE.NS",
+    "value": "CINELINE.NS"
+  },
+  {
+    "key": "CINEVISTA.NS",
+    "value": "CINEVISTA.NS"
+  },
+  {
+    "key": "CIPLA.NS",
+    "value": "CIPLA.NS"
+  },
+  {
+    "key": "CLEDUCATE.NS",
+    "value": "CLEDUCATE.NS"
+  },
+  {
+    "key": "CLNINDIA.NS",
+    "value": "CLNINDIA.NS"
+  },
+  {
+    "key": "CMICABLES.NS",
+    "value": "CMICABLES.NS"
+  },
+  {
+    "key": "CNOVAPETRO.NS",
+    "value": "CNOVAPETRO.NS"
+  },
+  {
+    "key": "COALINDIA.NS",
+    "value": "COALINDIA.NS"
+  },
+  {
+    "key": "COCHINSHIP.NS",
+    "value": "COCHINSHIP.NS"
+  },
+  {
+    "key": "COFORGE.NS",
+    "value": "COFORGE.NS"
+  },
+  {
+    "key": "COLPAL.NS",
+    "value": "COLPAL.NS"
+  },
+  {
+    "key": "COMPINFO.NS",
+    "value": "COMPINFO.NS"
+  },
+  {
+    "key": "COMPUSOFT.NS",
+    "value": "COMPUSOFT.NS"
+  },
+  {
+    "key": "CONCOR.NS",
+    "value": "CONCOR.NS"
+  },
+  {
+    "key": "CONFIPET.NS",
+    "value": "CONFIPET.NS"
+  },
+  {
+    "key": "CONSOFINVT.NS",
+    "value": "CONSOFINVT.NS"
+  },
+  {
+    "key": "CONTROLPR.NS",
+    "value": "CONTROLPR.NS"
+  },
+  {
+    "key": "CORALFINAC.NS",
+    "value": "CORALFINAC.NS"
+  },
+  {
+    "key": "CORDSCABLE.NS",
+    "value": "CORDSCABLE.NS"
+  },
+  {
+    "key": "COROMANDEL.NS",
+    "value": "COROMANDEL.NS"
+  },
+  {
+    "key": "COSMOFILMS.NS",
+    "value": "COSMOFILMS.NS"
+  },
+  {
+    "key": "COUNCODOS.NS",
+    "value": "COUNCODOS.NS"
+  },
+  {
+    "key": "COX&KINGS.NS",
+    "value": "COX&KINGS.NS"
+  },
+  {
+    "key": "CREATIVE.NS",
+    "value": "CREATIVE.NS"
+  },
+  {
+    "key": "CREATIVEYE.NS",
+    "value": "CREATIVEYE.NS"
+  },
+  {
+    "key": "CREDITACC.NS",
+    "value": "CREDITACC.NS"
+  },
+  {
+    "key": "CREST.NS",
+    "value": "CREST.NS"
+  },
+  {
+    "key": "CRISIL.NS",
+    "value": "CRISIL.NS"
+  },
+  {
+    "key": "CROMPTON.NS",
+    "value": "CROMPTON.NS"
+  },
+  {
+    "key": "CSBBANK.NS",
+    "value": "CSBBANK.NS"
+  },
+  {
+    "key": "CTE.NS",
+    "value": "CTE.NS"
+  },
+  {
+    "key": "CUB.NS",
+    "value": "CUB.NS"
+  },
+  {
+    "key": "CUBEXTUB.NS",
+    "value": "CUBEXTUB.NS"
+  },
+  {
+    "key": "CUMMINSIND.NS",
+    "value": "CUMMINSIND.NS"
+  },
+  {
+    "key": "CUPID.NS",
+    "value": "CUPID.NS"
+  },
+  {
+    "key": "CYBERMEDIA.NS",
+    "value": "CYBERMEDIA.NS"
+  },
+  {
+    "key": "CYBERTECH.NS",
+    "value": "CYBERTECH.NS"
+  },
+  {
+    "key": "CYIENT.NS",
+    "value": "CYIENT.NS"
+  },
+  {
+    "key": "DAAWAT.NS",
+    "value": "DAAWAT.NS"
+  },
+  {
+    "key": "DABUR.NS",
+    "value": "DABUR.NS"
+  },
+  {
+    "key": "DALBHARAT.NS",
+    "value": "DALBHARAT.NS"
+  },
+  {
+    "key": "DALMIASUG.NS",
+    "value": "DALMIASUG.NS"
+  },
+  {
+    "key": "DAMODARIND.NS",
+    "value": "DAMODARIND.NS"
+  },
+  {
+    "key": "DANGEE.NS",
+    "value": "DANGEE.NS"
+  },
+  {
+    "key": "DATAMATICS.NS",
+    "value": "DATAMATICS.NS"
+  },
+  {
+    "key": "DBCORP.NS",
+    "value": "DBCORP.NS"
+  },
+  {
+    "key": "DBL.NS",
+    "value": "DBL.NS"
+  },
+  {
+    "key": "DBREALTY.NS",
+    "value": "DBREALTY.NS"
+  },
+  {
+    "key": "DBSTOCKBRO.NS",
+    "value": "DBSTOCKBRO.NS"
+  },
+  {
+    "key": "DCAL.NS",
+    "value": "DCAL.NS"
+  },
+  {
+    "key": "DCBBANK.NS",
+    "value": "DCBBANK.NS"
+  },
+  {
+    "key": "DCM.NS",
+    "value": "DCM.NS"
+  },
+  {
+    "key": "DCMFINSERV.NS",
+    "value": "DCMFINSERV.NS"
+  },
+  {
+    "key": "DCMNVL.NS",
+    "value": "DCMNVL.NS"
+  },
+  {
+    "key": "DCMSHRIRAM.NS",
+    "value": "DCMSHRIRAM.NS"
+  },
+  {
+    "key": "DCW.NS",
+    "value": "DCW.NS"
+  },
+  {
+    "key": "DECCANCE.NS",
+    "value": "DECCANCE.NS"
+  },
+  {
+    "key": "DEEPAKFERT.NS",
+    "value": "DEEPAKFERT.NS"
+  },
+  {
+    "key": "DEEPAKNTR.NS",
+    "value": "DEEPAKNTR.NS"
+  },
+  {
+    "key": "DEEPENR.NS",
+    "value": "DEEPENR.NS"
+  },
+  {
+    "key": "DELTACORP.NS",
+    "value": "DELTACORP.NS"
+  },
+  {
+    "key": "DELTAMAGNT.NS",
+    "value": "DELTAMAGNT.NS"
+  },
+  {
+    "key": "DEN.NS",
+    "value": "DEN.NS"
+  },
+  {
+    "key": "DENORA.NS",
+    "value": "DENORA.NS"
+  },
+  {
+    "key": "DFMFOODS.NS",
+    "value": "DFMFOODS.NS"
+  },
+  {
+    "key": "DGCONTENT.NS",
+    "value": "DGCONTENT.NS"
+  },
+  {
+    "key": "DHAMPURSUG.NS",
+    "value": "DHAMPURSUG.NS"
+  },
+  {
+    "key": "DHANBANK.NS",
+    "value": "DHANBANK.NS"
+  },
+  {
+    "key": "DHANI.NS",
+    "value": "DHANI.NS"
+  },
+  {
+    "key": "DHANUKA.NS",
+    "value": "DHANUKA.NS"
+  },
+  {
+    "key": "DHARSUGAR.NS",
+    "value": "DHARSUGAR.NS"
+  },
+  {
+    "key": "DHFL.NS",
+    "value": "DHFL.NS"
+  },
+  {
+    "key": "DHUNINV.NS",
+    "value": "DHUNINV.NS"
+  },
+  {
+    "key": "DIAMONDYD.NS",
+    "value": "DIAMONDYD.NS"
+  },
+  {
+    "key": "DIAPOWER.NS",
+    "value": "DIAPOWER.NS"
+  },
+  {
+    "key": "DICIND.NS",
+    "value": "DICIND.NS"
+  },
+  {
+    "key": "DIGISPICE.NS",
+    "value": "DIGISPICE.NS"
+  },
+  {
+    "key": "DIGJAMLTD.NS",
+    "value": "DIGJAMLTD.NS"
+  },
+  {
+    "key": "DISHTV.NS",
+    "value": "DISHTV.NS"
+  },
+  {
+    "key": "DIVISLAB.NS",
+    "value": "DIVISLAB.NS"
+  },
+  {
+    "key": "DIXON.NS",
+    "value": "DIXON.NS"
+  },
+  {
+    "key": "DLF.NS",
+    "value": "DLF.NS"
+  },
+  {
+    "key": "DLINKINDIA.NS",
+    "value": "DLINKINDIA.NS"
+  },
+  {
+    "key": "DMART.NS",
+    "value": "DMART.NS"
+  },
+  {
+    "key": "DNAMEDIA.NS",
+    "value": "DNAMEDIA.NS"
+  },
+  {
+    "key": "DOLAT.NS",
+    "value": "DOLAT.NS"
+  },
+  {
+    "key": "DOLLAR.NS",
+    "value": "DOLLAR.NS"
+  },
+  {
+    "key": "DONEAR.NS",
+    "value": "DONEAR.NS"
+  },
+  {
+    "key": "DPABHUSHAN.NS",
+    "value": "DPABHUSHAN.NS"
+  },
+  {
+    "key": "DPSCLTD.NS",
+    "value": "DPSCLTD.NS"
+  },
+  {
+    "key": "DPWIRES.NS",
+    "value": "DPWIRES.NS"
+  },
+  {
+    "key": "DQE.NS",
+    "value": "DQE.NS"
+  },
+  {
+    "key": "DREDGECORP.NS",
+    "value": "DREDGECORP.NS"
+  },
+  {
+    "key": "DRREDDY.NS",
+    "value": "DRREDDY.NS"
+  },
+  {
+    "key": "DSSL.NS",
+    "value": "DSSL.NS"
+  },
+  {
+    "key": "DTIL.NS",
+    "value": "DTIL.NS"
+  },
+  {
+    "key": "DUCON.NS",
+    "value": "DUCON.NS"
+  },
+  {
+    "key": "DVL.NS",
+    "value": "DVL.NS"
+  },
+  {
+    "key": "DWARKESH.NS",
+    "value": "DWARKESH.NS"
+  },
+  {
+    "key": "DYNAMATECH.NS",
+    "value": "DYNAMATECH.NS"
+  },
+  {
+    "key": "DYNPRO.NS",
+    "value": "DYNPRO.NS"
+  },
+  {
+    "key": "EASTSILK.NS",
+    "value": "EASTSILK.NS"
+  },
+  {
+    "key": "EASUNREYRL.NS",
+    "value": "EASUNREYRL.NS"
+  },
+  {
+    "key": "EBIXFOREX.NS",
+    "value": "EBIXFOREX.NS"
+  },
+  {
+    "key": "ECLERX.NS",
+    "value": "ECLERX.NS"
+  },
+  {
+    "key": "EDELWEISS.NS",
+    "value": "EDELWEISS.NS"
+  },
+  {
+    "key": "EDUCOMP.NS",
+    "value": "EDUCOMP.NS"
+  },
+  {
+    "key": "EICHERMOT.NS",
+    "value": "EICHERMOT.NS"
+  },
+  {
+    "key": "EIDPARRY.NS",
+    "value": "EIDPARRY.NS"
+  },
+  {
+    "key": "EIHAHOTELS.NS",
+    "value": "EIHAHOTELS.NS"
+  },
+  {
+    "key": "EIHOTEL.NS",
+    "value": "EIHOTEL.NS"
+  },
+  {
+    "key": "EIMCOELECO.NS",
+    "value": "EIMCOELECO.NS"
+  },
+  {
+    "key": "EKC.NS",
+    "value": "EKC.NS"
+  },
+  {
+    "key": "ELECON.NS",
+    "value": "ELECON.NS"
+  },
+  {
+    "key": "ELECTCAST.NS",
+    "value": "ELECTCAST.NS"
+  },
+  {
+    "key": "ELECTHERM.NS",
+    "value": "ELECTHERM.NS"
+  },
+  {
+    "key": "ELGIEQUIP.NS",
+    "value": "ELGIEQUIP.NS"
+  },
+  {
+    "key": "ELGIRUBCO.NS",
+    "value": "ELGIRUBCO.NS"
+  },
+  {
+    "key": "EMAMILTD.NS",
+    "value": "EMAMILTD.NS"
+  },
+  {
+    "key": "EMAMIPAP.NS",
+    "value": "EMAMIPAP.NS"
+  },
+  {
+    "key": "EMAMIREAL.NS",
+    "value": "EMAMIREAL.NS"
+  },
+  {
+    "key": "EMCO.NS",
+    "value": "EMCO.NS"
+  },
+  {
+    "key": "EMKAY.NS",
+    "value": "EMKAY.NS"
+  },
+  {
+    "key": "EMMBI.NS",
+    "value": "EMMBI.NS"
+  },
+  {
+    "key": "ENDURANCE.NS",
+    "value": "ENDURANCE.NS"
+  },
+  {
+    "key": "ENERGYDEV.NS",
+    "value": "ENERGYDEV.NS"
+  },
+  {
+    "key": "ENGINERSIN.NS",
+    "value": "ENGINERSIN.NS"
+  },
+  {
+    "key": "ENIL.NS",
+    "value": "ENIL.NS"
+  },
+  {
+    "key": "EPL.NS",
+    "value": "EPL.NS"
+  },
+  {
+    "key": "EQUITAS.NS",
+    "value": "EQUITAS.NS"
+  },
+  {
+    "key": "EQUITASBNK.NS",
+    "value": "EQUITASBNK.NS"
+  },
+  {
+    "key": "ERIS.NS",
+    "value": "ERIS.NS"
+  },
+  {
+    "key": "EROSMEDIA.NS",
+    "value": "EROSMEDIA.NS"
+  },
+  {
+    "key": "ESABINDIA.NS",
+    "value": "ESABINDIA.NS"
+  },
+  {
+    "key": "ESCORTS.NS",
+    "value": "ESCORTS.NS"
+  },
+  {
+    "key": "ESSARSHPNG.NS",
+    "value": "ESSARSHPNG.NS"
+  },
+  {
+    "key": "ESTER.NS",
+    "value": "ESTER.NS"
+  },
+  {
+    "key": "EUROMULTI.NS",
+    "value": "EUROMULTI.NS"
+  },
+  {
+    "key": "EUROTEXIND.NS",
+    "value": "EUROTEXIND.NS"
+  },
+  {
+    "key": "EVEREADY.NS",
+    "value": "EVEREADY.NS"
+  },
+  {
+    "key": "EVERESTIND.NS",
+    "value": "EVERESTIND.NS"
+  },
+  {
+    "key": "EXCEL.NS",
+    "value": "EXCEL.NS"
+  },
+  {
+    "key": "EXCELINDUS.NS",
+    "value": "EXCELINDUS.NS"
+  },
+  {
+    "key": "EXIDEIND.NS",
+    "value": "EXIDEIND.NS"
+  },
+  {
+    "key": "EXPLEOSOL.NS",
+    "value": "EXPLEOSOL.NS"
+  },
+  {
+    "key": "FACT.NS",
+    "value": "FACT.NS"
+  },
+  {
+    "key": "FAIRCHEMOR.NS",
+    "value": "FAIRCHEMOR.NS"
+  },
+  {
+    "key": "FCL.NS",
+    "value": "FCL.NS"
+  },
+  {
+    "key": "FCONSUMER.NS",
+    "value": "FCONSUMER.NS"
+  },
+  {
+    "key": "FCSSOFT.NS",
+    "value": "FCSSOFT.NS"
+  },
+  {
+    "key": "FDC.NS",
+    "value": "FDC.NS"
+  },
+  {
+    "key": "FEDERALBNK.NS",
+    "value": "FEDERALBNK.NS"
+  },
+  {
+    "key": "FEL.NS",
+    "value": "FEL.NS"
+  },
+  {
+    "key": "FELDVR.NS",
+    "value": "FELDVR.NS"
+  },
+  {
+    "key": "FIEMIND.NS",
+    "value": "FIEMIND.NS"
+  },
+  {
+    "key": "FILATEX.NS",
+    "value": "FILATEX.NS"
+  },
+  {
+    "key": "FINCABLES.NS",
+    "value": "FINCABLES.NS"
+  },
+  {
+    "key": "FINEORG.NS",
+    "value": "FINEORG.NS"
+  },
+  {
+    "key": "FINPIPE.NS",
+    "value": "FINPIPE.NS"
+  },
+  {
+    "key": "FLEXITUFF.NS",
+    "value": "FLEXITUFF.NS"
+  },
+  {
+    "key": "FLFL.NS",
+    "value": "FLFL.NS"
+  },
+  {
+    "key": "FLUOROCHEM.NS",
+    "value": "FLUOROCHEM.NS"
+  },
+  {
+    "key": "FMGOETZE.NS",
+    "value": "FMGOETZE.NS"
+  },
+  {
+    "key": "FMNL.NS",
+    "value": "FMNL.NS"
+  },
+  {
+    "key": "FORCEMOT.NS",
+    "value": "FORCEMOT.NS"
+  },
+  {
+    "key": "FORTIS.NS",
+    "value": "FORTIS.NS"
+  },
+  {
+    "key": "FOSECOIND.NS",
+    "value": "FOSECOIND.NS"
+  },
+  {
+    "key": "FRETAIL.NS",
+    "value": "FRETAIL.NS"
+  },
+  {
+    "key": "FSC.NS",
+    "value": "FSC.NS"
+  },
+  {
+    "key": "FSL.NS",
+    "value": "FSL.NS"
+  },
+  {
+    "key": "GABRIEL.NS",
+    "value": "GABRIEL.NS"
+  },
+  {
+    "key": "GAEL.NS",
+    "value": "GAEL.NS"
+  },
+  {
+    "key": "GAIL.NS",
+    "value": "GAIL.NS"
+  },
+  {
+    "key": "GAL.NS",
+    "value": "GAL.NS"
+  },
+  {
+    "key": "GALAXYSURF.NS",
+    "value": "GALAXYSURF.NS"
+  },
+  {
+    "key": "GALLANTT.NS",
+    "value": "GALLANTT.NS"
+  },
+  {
+    "key": "GALLISPAT.NS",
+    "value": "GALLISPAT.NS"
+  },
+  {
+    "key": "GAMMNINFRA.NS",
+    "value": "GAMMNINFRA.NS"
+  },
+  {
+    "key": "GANDHITUBE.NS",
+    "value": "GANDHITUBE.NS"
+  },
+  {
+    "key": "GANECOS.NS",
+    "value": "GANECOS.NS"
+  },
+  {
+    "key": "GANESHHOUC.NS",
+    "value": "GANESHHOUC.NS"
+  },
+  {
+    "key": "GANGESSECU.NS",
+    "value": "GANGESSECU.NS"
+  },
+  {
+    "key": "GARDENSILK.NS",
+    "value": "GARDENSILK.NS"
+  },
+  {
+    "key": "GARFIBRES.NS",
+    "value": "GARFIBRES.NS"
+  },
+  {
+    "key": "GATI.NS",
+    "value": "GATI.NS"
+  },
+  {
+    "key": "GAYAHWS.NS",
+    "value": "GAYAHWS.NS"
+  },
+  {
+    "key": "GAYAPROJ.NS",
+    "value": "GAYAPROJ.NS"
+  },
+  {
+    "key": "GBGLOBAL.NS",
+    "value": "GBGLOBAL.NS"
+  },
+  {
+    "key": "GDL.NS",
+    "value": "GDL.NS"
+  },
+  {
+    "key": "GEECEE.NS",
+    "value": "GEECEE.NS"
+  },
+  {
+    "key": "GEEKAYWIRE.NS",
+    "value": "GEEKAYWIRE.NS"
+  },
+  {
+    "key": "GENESYS.NS",
+    "value": "GENESYS.NS"
+  },
+  {
+    "key": "GENUSPAPER.NS",
+    "value": "GENUSPAPER.NS"
+  },
+  {
+    "key": "GENUSPOWER.NS",
+    "value": "GENUSPOWER.NS"
+  },
+  {
+    "key": "GEOJITFSL.NS",
+    "value": "GEOJITFSL.NS"
+  },
+  {
+    "key": "GEPIL.NS",
+    "value": "GEPIL.NS"
+  },
+  {
+    "key": "GESHIP.NS",
+    "value": "GESHIP.NS"
+  },
+  {
+    "key": "GET&D.NS",
+    "value": "GET&D.NS"
+  },
+  {
+    "key": "GFLLIMITED.NS",
+    "value": "GFLLIMITED.NS"
+  },
+  {
+    "key": "GFSTEELS.NS",
+    "value": "GFSTEELS.NS"
+  },
+  {
+    "key": "GHCL.NS",
+    "value": "GHCL.NS"
+  },
+  {
+    "key": "GICHSGFIN.NS",
+    "value": "GICHSGFIN.NS"
+  },
+  {
+    "key": "GICRE.NS",
+    "value": "GICRE.NS"
+  },
+  {
+    "key": "GILLANDERS.NS",
+    "value": "GILLANDERS.NS"
+  },
+  {
+    "key": "GILLETTE.NS",
+    "value": "GILLETTE.NS"
+  },
+  {
+    "key": "GINNIFILA.NS",
+    "value": "GINNIFILA.NS"
+  },
+  {
+    "key": "GIPCL.NS",
+    "value": "GIPCL.NS"
+  },
+  {
+    "key": "GISOLUTION.NS",
+    "value": "GISOLUTION.NS"
+  },
+  {
+    "key": "GKWLIMITED.NS",
+    "value": "GKWLIMITED.NS"
+  },
+  {
+    "key": "GLAND.NS",
+    "value": "GLAND.NS"
+  },
+  {
+    "key": "GLAXO.NS",
+    "value": "GLAXO.NS"
+  },
+  {
+    "key": "GLENMARK.NS",
+    "value": "GLENMARK.NS"
+  },
+  {
+    "key": "GLFL.NS",
+    "value": "GLFL.NS"
+  },
+  {
+    "key": "GLOBAL.NS",
+    "value": "GLOBAL.NS"
+  },
+  {
+    "key": "GLOBALVECT.NS",
+    "value": "GLOBALVECT.NS"
+  },
+  {
+    "key": "GLOBE.NS",
+    "value": "GLOBE.NS"
+  },
+  {
+    "key": "GLOBOFFS.NS",
+    "value": "GLOBOFFS.NS"
+  },
+  {
+    "key": "GLOBUSSPR.NS",
+    "value": "GLOBUSSPR.NS"
+  },
+  {
+    "key": "GMBREW.NS",
+    "value": "GMBREW.NS"
+  },
+  {
+    "key": "GMDCLTD.NS",
+    "value": "GMDCLTD.NS"
+  },
+  {
+    "key": "GMMPFAUDLR.NS",
+    "value": "GMMPFAUDLR.NS"
+  },
+  {
+    "key": "GMRINFRA.NS",
+    "value": "GMRINFRA.NS"
+  },
+  {
+    "key": "GNA.NS",
+    "value": "GNA.NS"
+  },
+  {
+    "key": "GNFC.NS",
+    "value": "GNFC.NS"
+  },
+  {
+    "key": "GOACARBON.NS",
+    "value": "GOACARBON.NS"
+  },
+  {
+    "key": "GOCLCORP.NS",
+    "value": "GOCLCORP.NS"
+  },
+  {
+    "key": "GODFRYPHLP.NS",
+    "value": "GODFRYPHLP.NS"
+  },
+  {
+    "key": "GODHA.NS",
+    "value": "GODHA.NS"
+  },
+  {
+    "key": "GODREJAGRO.NS",
+    "value": "GODREJAGRO.NS"
+  },
+  {
+    "key": "GODREJCP.NS",
+    "value": "GODREJCP.NS"
+  },
+  {
+    "key": "GODREJIND.NS",
+    "value": "GODREJIND.NS"
+  },
+  {
+    "key": "GODREJPROP.NS",
+    "value": "GODREJPROP.NS"
+  },
+  {
+    "key": "GOENKA.NS",
+    "value": "GOENKA.NS"
+  },
+  {
+    "key": "GOKEX.NS",
+    "value": "GOKEX.NS"
+  },
+  {
+    "key": "GOKUL.NS",
+    "value": "GOKUL.NS"
+  },
+  {
+    "key": "GOKULAGRO.NS",
+    "value": "GOKULAGRO.NS"
+  },
+  {
+    "key": "GOLDENTOBC.NS",
+    "value": "GOLDENTOBC.NS"
+  },
+  {
+    "key": "GOLDIAM.NS",
+    "value": "GOLDIAM.NS"
+  },
+  {
+    "key": "GOLDTECH.NS",
+    "value": "GOLDTECH.NS"
+  },
+  {
+    "key": "GOODLUCK.NS",
+    "value": "GOODLUCK.NS"
+  },
+  {
+    "key": "GOODYEAR.NS",
+    "value": "GOODYEAR.NS"
+  },
+  {
+    "key": "GPIL.NS",
+    "value": "GPIL.NS"
+  },
+  {
+    "key": "GPPL.NS",
+    "value": "GPPL.NS"
+  },
+  {
+    "key": "GPTINFRA.NS",
+    "value": "GPTINFRA.NS"
+  },
+  {
+    "key": "GRANULES.NS",
+    "value": "GRANULES.NS"
+  },
+  {
+    "key": "GRAPHITE.NS",
+    "value": "GRAPHITE.NS"
+  },
+  {
+    "key": "GRASIM.NS",
+    "value": "GRASIM.NS"
+  },
+  {
+    "key": "GRAVITA.NS",
+    "value": "GRAVITA.NS"
+  },
+  {
+    "key": "GREAVESCOT.NS",
+    "value": "GREAVESCOT.NS"
+  },
+  {
+    "key": "GREENLAM.NS",
+    "value": "GREENLAM.NS"
+  },
+  {
+    "key": "GREENPANEL.NS",
+    "value": "GREENPANEL.NS"
+  },
+  {
+    "key": "GREENPLY.NS",
+    "value": "GREENPLY.NS"
+  },
+  {
+    "key": "GREENPOWER.NS",
+    "value": "GREENPOWER.NS"
+  },
+  {
+    "key": "GRINDWELL.NS",
+    "value": "GRINDWELL.NS"
+  },
+  {
+    "key": "GROBTEA.NS",
+    "value": "GROBTEA.NS"
+  },
+  {
+    "key": "GRPLTD.NS",
+    "value": "GRPLTD.NS"
+  },
+  {
+    "key": "GRSE.NS",
+    "value": "GRSE.NS"
+  },
+  {
+    "key": "GSCLCEMENT.NS",
+    "value": "GSCLCEMENT.NS"
+  },
+  {
+    "key": "GSFC.NS",
+    "value": "GSFC.NS"
+  },
+  {
+    "key": "GSPL.NS",
+    "value": "GSPL.NS"
+  },
+  {
+    "key": "GSS.NS",
+    "value": "GSS.NS"
+  },
+  {
+    "key": "GTL.NS",
+    "value": "GTL.NS"
+  },
+  {
+    "key": "GTLINFRA.NS",
+    "value": "GTLINFRA.NS"
+  },
+  {
+    "key": "GTNIND.NS",
+    "value": "GTNIND.NS"
+  },
+  {
+    "key": "GTNTEX.NS",
+    "value": "GTNTEX.NS"
+  },
+  {
+    "key": "GTPL.NS",
+    "value": "GTPL.NS"
+  },
+  {
+    "key": "GUFICBIO.NS",
+    "value": "GUFICBIO.NS"
+  },
+  {
+    "key": "GUJALKALI.NS",
+    "value": "GUJALKALI.NS"
+  },
+  {
+    "key": "GUJAPOLLO.NS",
+    "value": "GUJAPOLLO.NS"
+  },
+  {
+    "key": "GUJGASLTD.NS",
+    "value": "GUJGASLTD.NS"
+  },
+  {
+    "key": "GUJRAFFIA.NS",
+    "value": "GUJRAFFIA.NS"
+  },
+  {
+    "key": "GULFOILLUB.NS",
+    "value": "GULFOILLUB.NS"
+  },
+  {
+    "key": "GULFPETRO.NS",
+    "value": "GULFPETRO.NS"
+  },
+  {
+    "key": "GULPOLY.NS",
+    "value": "GULPOLY.NS"
+  },
+  {
+    "key": "GVKPIL.NS",
+    "value": "GVKPIL.NS"
+  },
+  {
+    "key": "HAL.NS",
+    "value": "HAL.NS"
+  },
+  {
+    "key": "HAPPSTMNDS.NS",
+    "value": "HAPPSTMNDS.NS"
+  },
+  {
+    "key": "HARITASEAT.NS",
+    "value": "HARITASEAT.NS"
+  },
+  {
+    "key": "HARRMALAYA.NS",
+    "value": "HARRMALAYA.NS"
+  },
+  {
+    "key": "HATHWAY.NS",
+    "value": "HATHWAY.NS"
+  },
+  {
+    "key": "HATSUN.NS",
+    "value": "HATSUN.NS"
+  },
+  {
+    "key": "HAVELLS.NS",
+    "value": "HAVELLS.NS"
+  },
+  {
+    "key": "HAVISHA.NS",
+    "value": "HAVISHA.NS"
+  },
+  {
+    "key": "HBLPOWER.NS",
+    "value": "HBLPOWER.NS"
+  },
+  {
+    "key": "HBSL.NS",
+    "value": "HBSL.NS"
+  },
+  {
+    "key": "HCC.NS",
+    "value": "HCC.NS"
+  },
+  {
+    "key": "HCG.NS",
+    "value": "HCG.NS"
+  },
+  {
+    "key": "HCL-INSYS.NS",
+    "value": "HCL-INSYS.NS"
+  },
+  {
+    "key": "HCLTECH.NS",
+    "value": "HCLTECH.NS"
+  },
+  {
+    "key": "HDFC.NS",
+    "value": "HDFC.NS"
+  },
+  {
+    "key": "HDFCAMC.NS",
+    "value": "HDFCAMC.NS"
+  },
+  {
+    "key": "HDFCBANK.NS",
+    "value": "HDFCBANK.NS"
+  },
+  {
+    "key": "HDFCLIFE.NS",
+    "value": "HDFCLIFE.NS"
+  },
+  {
+    "key": "HDIL.NS",
+    "value": "HDIL.NS"
+  },
+  {
+    "key": "HEG.NS",
+    "value": "HEG.NS"
+  },
+  {
+    "key": "HEIDELBERG.NS",
+    "value": "HEIDELBERG.NS"
+  },
+  {
+    "key": "HEMIPROP.NS",
+    "value": "HEMIPROP.NS"
+  },
+  {
+    "key": "HERCULES.NS",
+    "value": "HERCULES.NS"
+  },
+  {
+    "key": "HERITGFOOD.NS",
+    "value": "HERITGFOOD.NS"
+  },
+  {
+    "key": "HEROMOTOCO.NS",
+    "value": "HEROMOTOCO.NS"
+  },
+  {
+    "key": "HESTERBIO.NS",
+    "value": "HESTERBIO.NS"
+  },
+  {
+    "key": "HEXATRADEX.NS",
+    "value": "HEXATRADEX.NS"
+  },
+  {
+    "key": "HFCL.NS",
+    "value": "HFCL.NS"
+  },
+  {
+    "key": "HGINFRA.NS",
+    "value": "HGINFRA.NS"
+  },
+  {
+    "key": "HGS.NS",
+    "value": "HGS.NS"
+  },
+  {
+    "key": "HIKAL.NS",
+    "value": "HIKAL.NS"
+  },
+  {
+    "key": "HIL.NS",
+    "value": "HIL.NS"
+  },
+  {
+    "key": "HILTON.NS",
+    "value": "HILTON.NS"
+  },
+  {
+    "key": "HIMATSEIDE.NS",
+    "value": "HIMATSEIDE.NS"
+  },
+  {
+    "key": "HINDALCO.NS",
+    "value": "HINDALCO.NS"
+  },
+  {
+    "key": "HINDCOMPOS.NS",
+    "value": "HINDCOMPOS.NS"
+  },
+  {
+    "key": "HINDCOPPER.NS",
+    "value": "HINDCOPPER.NS"
+  },
+  {
+    "key": "HINDMOTORS.NS",
+    "value": "HINDMOTORS.NS"
+  },
+  {
+    "key": "HINDNATGLS.NS",
+    "value": "HINDNATGLS.NS"
+  },
+  {
+    "key": "HINDOILEXP.NS",
+    "value": "HINDOILEXP.NS"
+  },
+  {
+    "key": "HINDPETRO.NS",
+    "value": "HINDPETRO.NS"
+  },
+  {
+    "key": "HINDUNILVR.NS",
+    "value": "HINDUNILVR.NS"
+  },
+  {
+    "key": "HINDZINC.NS",
+    "value": "HINDZINC.NS"
+  },
+  {
+    "key": "HIRECT.NS",
+    "value": "HIRECT.NS"
+  },
+  {
+    "key": "HISARMETAL.NS",
+    "value": "HISARMETAL.NS"
+  },
+  {
+    "key": "HITECH.NS",
+    "value": "HITECH.NS"
+  },
+  {
+    "key": "HITECHCORP.NS",
+    "value": "HITECHCORP.NS"
+  },
+  {
+    "key": "HITECHGEAR.NS",
+    "value": "HITECHGEAR.NS"
+  },
+  {
+    "key": "HLVLTD.NS",
+    "value": "HLVLTD.NS"
+  },
+  {
+    "key": "HMT.NS",
+    "value": "HMT.NS"
+  },
+  {
+    "key": "HMVL.NS",
+    "value": "HMVL.NS"
+  },
+  {
+    "key": "HNDFDS.NS",
+    "value": "HNDFDS.NS"
+  },
+  {
+    "key": "HONAUT.NS",
+    "value": "HONAUT.NS"
+  },
+  {
+    "key": "HONDAPOWER.NS",
+    "value": "HONDAPOWER.NS"
+  },
+  {
+    "key": "HOTELRUGBY.NS",
+    "value": "HOTELRUGBY.NS"
+  },
+  {
+    "key": "HOVS.NS",
+    "value": "HOVS.NS"
+  },
+  {
+    "key": "HPL.NS",
+    "value": "HPL.NS"
+  },
+  {
+    "key": "HSCL.NS",
+    "value": "HSCL.NS"
+  },
+  {
+    "key": "HSIL.NS",
+    "value": "HSIL.NS"
+  },
+  {
+    "key": "HTMEDIA.NS",
+    "value": "HTMEDIA.NS"
+  },
+  {
+    "key": "HUBTOWN.NS",
+    "value": "HUBTOWN.NS"
+  },
+  {
+    "key": "HUDCO.NS",
+    "value": "HUDCO.NS"
+  },
+  {
+    "key": "HUHTAMAKI.NS",
+    "value": "HUHTAMAKI.NS"
+  },
+  {
+    "key": "IBREALEST.NS",
+    "value": "IBREALEST.NS"
+  },
+  {
+    "key": "IBULHSGFIN.NS",
+    "value": "IBULHSGFIN.NS"
+  },
+  {
+    "key": "ICEMAKE.NS",
+    "value": "ICEMAKE.NS"
+  },
+  {
+    "key": "ICICIBANK.NS",
+    "value": "ICICIBANK.NS"
+  },
+  {
+    "key": "ICICIGI.NS",
+    "value": "ICICIGI.NS"
+  },
+  {
+    "key": "ICICIPRULI.NS",
+    "value": "ICICIPRULI.NS"
+  },
+  {
+    "key": "ICIL.NS",
+    "value": "ICIL.NS"
+  },
+  {
+    "key": "ICRA.NS",
+    "value": "ICRA.NS"
+  },
+  {
+    "key": "IDBI.NS",
+    "value": "IDBI.NS"
+  },
+  {
+    "key": "IDEA.NS",
+    "value": "IDEA.NS"
+  },
+  {
+    "key": "IDFC.NS",
+    "value": "IDFC.NS"
+  },
+  {
+    "key": "IDFCFIRSTB.NS",
+    "value": "IDFCFIRSTB.NS"
+  },
+  {
+    "key": "IEX.NS",
+    "value": "IEX.NS"
+  },
+  {
+    "key": "IFBAGRO.NS",
+    "value": "IFBAGRO.NS"
+  },
+  {
+    "key": "IFBIND.NS",
+    "value": "IFBIND.NS"
+  },
+  {
+    "key": "IFCI.NS",
+    "value": "IFCI.NS"
+  },
+  {
+    "key": "IFGLEXPOR.NS",
+    "value": "IFGLEXPOR.NS"
+  },
+  {
+    "key": "IGARASHI.NS",
+    "value": "IGARASHI.NS"
+  },
+  {
+    "key": "IGL.NS",
+    "value": "IGL.NS"
+  },
+  {
+    "key": "IGPL.NS",
+    "value": "IGPL.NS"
+  },
+  {
+    "key": "IIFL.NS",
+    "value": "IIFL.NS"
+  },
+  {
+    "key": "IIFLSEC.NS",
+    "value": "IIFLSEC.NS"
+  },
+  {
+    "key": "IIFLWAM.NS",
+    "value": "IIFLWAM.NS"
+  },
+  {
+    "key": "IITL.NS",
+    "value": "IITL.NS"
+  },
+  {
+    "key": "IL&FSENGG.NS",
+    "value": "IL&FSENGG.NS"
+  },
+  {
+    "key": "IL&FSTRANS.NS",
+    "value": "IL&FSTRANS.NS"
+  },
+  {
+    "key": "IMAGICAA.NS",
+    "value": "IMAGICAA.NS"
+  },
+  {
+    "key": "IMFA.NS",
+    "value": "IMFA.NS"
+  },
+  {
+    "key": "IMPAL.NS",
+    "value": "IMPAL.NS"
+  },
+  {
+    "key": "INDBANK.NS",
+    "value": "INDBANK.NS"
+  },
+  {
+    "key": "INDHOTEL.NS",
+    "value": "INDHOTEL.NS"
+  },
+  {
+    "key": "INDIACEM.NS",
+    "value": "INDIACEM.NS"
+  },
+  {
+    "key": "INDIAGLYCO.NS",
+    "value": "INDIAGLYCO.NS"
+  },
+  {
+    "key": "INDIAMART.NS",
+    "value": "INDIAMART.NS"
+  },
+  {
+    "key": "INDIANB.NS",
+    "value": "INDIANB.NS"
+  },
+  {
+    "key": "INDIANCARD.NS",
+    "value": "INDIANCARD.NS"
+  },
+  {
+    "key": "INDIANHUME.NS",
+    "value": "INDIANHUME.NS"
+  },
+  {
+    "key": "INDIGO.NS",
+    "value": "INDIGO.NS"
+  },
+  {
+    "key": "INDLMETER.NS",
+    "value": "INDLMETER.NS"
+  },
+  {
+    "key": "INDNIPPON.NS",
+    "value": "INDNIPPON.NS"
+  },
+  {
+    "key": "INDOCO.NS",
+    "value": "INDOCO.NS"
+  },
+  {
+    "key": "INDORAMA.NS",
+    "value": "INDORAMA.NS"
+  },
+  {
+    "key": "INDOSOLAR.NS",
+    "value": "INDOSOLAR.NS"
+  },
+  {
+    "key": "INDOSTAR.NS",
+    "value": "INDOSTAR.NS"
+  },
+  {
+    "key": "INDOTECH.NS",
+    "value": "INDOTECH.NS"
+  },
+  {
+    "key": "INDOTHAI.NS",
+    "value": "INDOTHAI.NS"
+  },
+  {
+    "key": "INDOWIND.NS",
+    "value": "INDOWIND.NS"
+  },
+  {
+    "key": "INDRAMEDCO.NS",
+    "value": "INDRAMEDCO.NS"
+  },
+  {
+    "key": "INDSWFTLAB.NS",
+    "value": "INDSWFTLAB.NS"
+  },
+  {
+    "key": "INDSWFTLTD.NS",
+    "value": "INDSWFTLTD.NS"
+  },
+  {
+    "key": "INDTERRAIN.NS",
+    "value": "INDTERRAIN.NS"
+  },
+  {
+    "key": "INDUSINDBK.NS",
+    "value": "INDUSINDBK.NS"
+  },
+  {
+    "key": "INDUSTOWER.NS",
+    "value": "INDUSTOWER.NS"
+  },
+  {
+    "key": "INEOSSTYRO.NS",
+    "value": "INEOSSTYRO.NS"
+  },
+  {
+    "key": "INFIBEAM.NS",
+    "value": "INFIBEAM.NS"
+  },
+  {
+    "key": "INFOBEAN.NS",
+    "value": "INFOBEAN.NS"
+  },
+  {
+    "key": "INFOMEDIA.NS",
+    "value": "INFOMEDIA.NS"
+  },
+  {
+    "key": "INFY.NS",
+    "value": "INFY.NS"
+  },
+  {
+    "key": "INGERRAND.NS",
+    "value": "INGERRAND.NS"
+  },
+  {
+    "key": "INOXLEISUR.NS",
+    "value": "INOXLEISUR.NS"
+  },
+  {
+    "key": "INOXWIND.NS",
+    "value": "INOXWIND.NS"
+  },
+  {
+    "key": "INSECTICID.NS",
+    "value": "INSECTICID.NS"
+  },
+  {
+    "key": "INSPIRISYS.NS",
+    "value": "INSPIRISYS.NS"
+  },
+  {
+    "key": "INTEGRA.NS",
+    "value": "INTEGRA.NS"
+  },
+  {
+    "key": "INTELLECT.NS",
+    "value": "INTELLECT.NS"
+  },
+  {
+    "key": "INTENTECH.NS",
+    "value": "INTENTECH.NS"
+  },
+  {
+    "key": "INVENTURE.NS",
+    "value": "INVENTURE.NS"
+  },
+  {
+    "key": "IOB.NS",
+    "value": "IOB.NS"
+  },
+  {
+    "key": "IOC.NS",
+    "value": "IOC.NS"
+  },
+  {
+    "key": "IOLCP.NS",
+    "value": "IOLCP.NS"
+  },
+  {
+    "key": "IPCALAB.NS",
+    "value": "IPCALAB.NS"
+  },
+  {
+    "key": "IRB.NS",
+    "value": "IRB.NS"
+  },
+  {
+    "key": "IRCON.NS",
+    "value": "IRCON.NS"
+  },
+  {
+    "key": "IRCTC.NS",
+    "value": "IRCTC.NS"
+  },
+  {
+    "key": "ISEC.NS",
+    "value": "ISEC.NS"
+  },
+  {
+    "key": "ISFT.NS",
+    "value": "ISFT.NS"
+  },
+  {
+    "key": "ISMTLTD.NS",
+    "value": "ISMTLTD.NS"
+  },
+  {
+    "key": "ITC.NS",
+    "value": "ITC.NS"
+  },
+  {
+    "key": "ITDC.NS",
+    "value": "ITDC.NS"
+  },
+  {
+    "key": "ITDCEM.NS",
+    "value": "ITDCEM.NS"
+  },
+  {
+    "key": "ITI.NS",
+    "value": "ITI.NS"
+  },
+  {
+    "key": "IVC.NS",
+    "value": "IVC.NS"
+  },
+  {
+    "key": "IVP.NS",
+    "value": "IVP.NS"
+  },
+  {
+    "key": "IZMO.NS",
+    "value": "IZMO.NS"
+  },
+  {
+    "key": "J&KBANK.NS",
+    "value": "J&KBANK.NS"
+  },
+  {
+    "key": "JAGRAN.NS",
+    "value": "JAGRAN.NS"
+  },
+  {
+    "key": "JAGSNPHARM.NS",
+    "value": "JAGSNPHARM.NS"
+  },
+  {
+    "key": "JAIBALAJI.NS",
+    "value": "JAIBALAJI.NS"
+  },
+  {
+    "key": "JAICORPLTD.NS",
+    "value": "JAICORPLTD.NS"
+  },
+  {
+    "key": "JAIHINDPRO.NS",
+    "value": "JAIHINDPRO.NS"
+  },
+  {
+    "key": "JAINSTUDIO.NS",
+    "value": "JAINSTUDIO.NS"
+  },
+  {
+    "key": "JAMNAAUTO.NS",
+    "value": "JAMNAAUTO.NS"
+  },
+  {
+    "key": "JASH.NS",
+    "value": "JASH.NS"
+  },
+  {
+    "key": "JAYAGROGN.NS",
+    "value": "JAYAGROGN.NS"
+  },
+  {
+    "key": "JAYBARMARU.NS",
+    "value": "JAYBARMARU.NS"
+  },
+  {
+    "key": "JAYNECOIND.NS",
+    "value": "JAYNECOIND.NS"
+  },
+  {
+    "key": "JAYSREETEA.NS",
+    "value": "JAYSREETEA.NS"
+  },
+  {
+    "key": "JBCHEPHARM.NS",
+    "value": "JBCHEPHARM.NS"
+  },
+  {
+    "key": "JBFIND.NS",
+    "value": "JBFIND.NS"
+  },
+  {
+    "key": "JBMA.NS",
+    "value": "JBMA.NS"
+  },
+  {
+    "key": "JCHAC.NS",
+    "value": "JCHAC.NS"
+  },
+  {
+    "key": "JETAIRWAYS.NS",
+    "value": "JETAIRWAYS.NS"
+  },
+  {
+    "key": "JHS.NS",
+    "value": "JHS.NS"
+  },
+  {
+    "key": "JINDALPHOT.NS",
+    "value": "JINDALPHOT.NS"
+  },
+  {
+    "key": "JINDALPOLY.NS",
+    "value": "JINDALPOLY.NS"
+  },
+  {
+    "key": "JINDALSAW.NS",
+    "value": "JINDALSAW.NS"
+  },
+  {
+    "key": "JINDALSTEL.NS",
+    "value": "JINDALSTEL.NS"
+  },
+  {
+    "key": "JINDRILL.NS",
+    "value": "JINDRILL.NS"
+  },
+  {
+    "key": "JINDWORLD.NS",
+    "value": "JINDWORLD.NS"
+  },
+  {
+    "key": "JISLDVREQS.NS",
+    "value": "JISLDVREQS.NS"
+  },
+  {
+    "key": "JISLJALEQS.NS",
+    "value": "JISLJALEQS.NS"
+  },
+  {
+    "key": "JITFINFRA.NS",
+    "value": "JITFINFRA.NS"
+  },
+  {
+    "key": "JIYAECO.NS",
+    "value": "JIYAECO.NS"
+  },
+  {
+    "key": "JKCEMENT.NS",
+    "value": "JKCEMENT.NS"
+  },
+  {
+    "key": "JKIL.NS",
+    "value": "JKIL.NS"
+  },
+  {
+    "key": "JKLAKSHMI.NS",
+    "value": "JKLAKSHMI.NS"
+  },
+  {
+    "key": "JKPAPER.NS",
+    "value": "JKPAPER.NS"
+  },
+  {
+    "key": "JKTYRE.NS",
+    "value": "JKTYRE.NS"
+  },
+  {
+    "key": "JMA.NS",
+    "value": "JMA.NS"
+  },
+  {
+    "key": "JMCPROJECT.NS",
+    "value": "JMCPROJECT.NS"
+  },
+  {
+    "key": "JMFINANCIL.NS",
+    "value": "JMFINANCIL.NS"
+  },
+  {
+    "key": "JMTAUTOLTD.NS",
+    "value": "JMTAUTOLTD.NS"
+  },
+  {
+    "key": "JOCIL.NS",
+    "value": "JOCIL.NS"
+  },
+  {
+    "key": "JPASSOCIAT.NS",
+    "value": "JPASSOCIAT.NS"
+  },
+  {
+    "key": "JPINFRATEC.NS",
+    "value": "JPINFRATEC.NS"
+  },
+  {
+    "key": "JPOLYINVST.NS",
+    "value": "JPOLYINVST.NS"
+  },
+  {
+    "key": "JPPOWER.NS",
+    "value": "JPPOWER.NS"
+  },
+  {
+    "key": "JSL.NS",
+    "value": "JSL.NS"
+  },
+  {
+    "key": "JSLHISAR.NS",
+    "value": "JSLHISAR.NS"
+  },
+  {
+    "key": "JSWENERGY.NS",
+    "value": "JSWENERGY.NS"
+  },
+  {
+    "key": "JSWHL.NS",
+    "value": "JSWHL.NS"
+  },
+  {
+    "key": "JSWISPL.NS",
+    "value": "JSWISPL.NS"
+  },
+  {
+    "key": "JSWSTEEL.NS",
+    "value": "JSWSTEEL.NS"
+  },
+  {
+    "key": "JTEKTINDIA.NS",
+    "value": "JTEKTINDIA.NS"
+  },
+  {
+    "key": "JUBILANT.NS",
+    "value": "JUBILANT.NS"
+  },
+  {
+    "key": "JUBLFOOD.NS",
+    "value": "JUBLFOOD.NS"
+  },
+  {
+    "key": "JUBLINDS.NS",
+    "value": "JUBLINDS.NS"
+  },
+  {
+    "key": "JUMPNET.NS",
+    "value": "JUMPNET.NS"
+  },
+  {
+    "key": "JUSTDIAL.NS",
+    "value": "JUSTDIAL.NS"
+  },
+  {
+    "key": "JYOTHYLAB.NS",
+    "value": "JYOTHYLAB.NS"
+  },
+  {
+    "key": "JYOTISTRUC.NS",
+    "value": "JYOTISTRUC.NS"
+  },
+  {
+    "key": "KABRAEXTRU.NS",
+    "value": "KABRAEXTRU.NS"
+  },
+  {
+    "key": "KAJARIACER.NS",
+    "value": "KAJARIACER.NS"
+  },
+  {
+    "key": "KAKATCEM.NS",
+    "value": "KAKATCEM.NS"
+  },
+  {
+    "key": "KALPATPOWR.NS",
+    "value": "KALPATPOWR.NS"
+  },
+  {
+    "key": "KALYANI.NS",
+    "value": "KALYANI.NS"
+  },
+  {
+    "key": "KALYANIFRG.NS",
+    "value": "KALYANIFRG.NS"
+  },
+  {
+    "key": "KAMATHOTEL.NS",
+    "value": "KAMATHOTEL.NS"
+  },
+  {
+    "key": "KAMDHENU.NS",
+    "value": "KAMDHENU.NS"
+  },
+  {
+    "key": "KANANIIND.NS",
+    "value": "KANANIIND.NS"
+  },
+  {
+    "key": "KANORICHEM.NS",
+    "value": "KANORICHEM.NS"
+  },
+  {
+    "key": "KANPRPLA.NS",
+    "value": "KANPRPLA.NS"
+  },
+  {
+    "key": "KANSAINER.NS",
+    "value": "KANSAINER.NS"
+  },
+  {
+    "key": "KAPSTON.NS",
+    "value": "KAPSTON.NS"
+  },
+  {
+    "key": "KARDA.NS",
+    "value": "KARDA.NS"
+  },
+  {
+    "key": "KARMAENG.NS",
+    "value": "KARMAENG.NS"
+  },
+  {
+    "key": "KARURVYSYA.NS",
+    "value": "KARURVYSYA.NS"
+  },
+  {
+    "key": "KAUSHALYA.NS",
+    "value": "KAUSHALYA.NS"
+  },
+  {
+    "key": "KAYA.NS",
+    "value": "KAYA.NS"
+  },
+  {
+    "key": "KCP.NS",
+    "value": "KCP.NS"
+  },
+  {
+    "key": "KCPSUGIND.NS",
+    "value": "KCPSUGIND.NS"
+  },
+  {
+    "key": "KDDL.NS",
+    "value": "KDDL.NS"
+  },
+  {
+    "key": "KEC.NS",
+    "value": "KEC.NS"
+  },
+  {
+    "key": "KECL.NS",
+    "value": "KECL.NS"
+  },
+  {
+    "key": "KEERTI.NS",
+    "value": "KEERTI.NS"
+  },
+  {
+    "key": "KEI.NS",
+    "value": "KEI.NS"
+  },
+  {
+    "key": "KELLTONTEC.NS",
+    "value": "KELLTONTEC.NS"
+  },
+  {
+    "key": "KENNAMET.NS",
+    "value": "KENNAMET.NS"
+  },
+  {
+    "key": "KERNEX.NS",
+    "value": "KERNEX.NS"
+  },
+  {
+    "key": "KESORAMIND.NS",
+    "value": "KESORAMIND.NS"
+  },
+  {
+    "key": "KEYFINSERV.NS",
+    "value": "KEYFINSERV.NS"
+  },
+  {
+    "key": "KGL.NS",
+    "value": "KGL.NS"
+  },
+  {
+    "key": "KHADIM.NS",
+    "value": "KHADIM.NS"
+  },
+  {
+    "key": "KHAICHEM.NS",
+    "value": "KHAICHEM.NS"
+  },
+  {
+    "key": "KHANDSE.NS",
+    "value": "KHANDSE.NS"
+  },
+  {
+    "key": "KICL.NS",
+    "value": "KICL.NS"
+  },
+  {
+    "key": "KILITCH.NS",
+    "value": "KILITCH.NS"
+  },
+  {
+    "key": "KINGFA.NS",
+    "value": "KINGFA.NS"
+  },
+  {
+    "key": "KIOCL.NS",
+    "value": "KIOCL.NS"
+  },
+  {
+    "key": "KIRIINDUS.NS",
+    "value": "KIRIINDUS.NS"
+  },
+  {
+    "key": "KIRLFER.NS",
+    "value": "KIRLFER.NS"
+  },
+  {
+    "key": "KIRLOSBROS.NS",
+    "value": "KIRLOSBROS.NS"
+  },
+  {
+    "key": "KIRLOSENG.NS",
+    "value": "KIRLOSENG.NS"
+  },
+  {
+    "key": "KIRLOSIND.NS",
+    "value": "KIRLOSIND.NS"
+  },
+  {
+    "key": "KITEX.NS",
+    "value": "KITEX.NS"
+  },
+  {
+    "key": "KKCL.NS",
+    "value": "KKCL.NS"
+  },
+  {
+    "key": "KMSUGAR.NS",
+    "value": "KMSUGAR.NS"
+  },
+  {
+    "key": "KNRCON.NS",
+    "value": "KNRCON.NS"
+  },
+  {
+    "key": "KOKUYOCMLN.NS",
+    "value": "KOKUYOCMLN.NS"
+  },
+  {
+    "key": "KOLTEPATIL.NS",
+    "value": "KOLTEPATIL.NS"
+  },
+  {
+    "key": "KOPRAN.NS",
+    "value": "KOPRAN.NS"
+  },
+  {
+    "key": "KOTAKBANK.NS",
+    "value": "KOTAKBANK.NS"
+  },
+  {
+    "key": "KOTARISUG.NS",
+    "value": "KOTARISUG.NS"
+  },
+  {
+    "key": "KOTHARIPET.NS",
+    "value": "KOTHARIPET.NS"
+  },
+  {
+    "key": "KOTHARIPRO.NS",
+    "value": "KOTHARIPRO.NS"
+  },
+  {
+    "key": "KPITTECH.NS",
+    "value": "KPITTECH.NS"
+  },
+  {
+    "key": "KPRMILL.NS",
+    "value": "KPRMILL.NS"
+  },
+  {
+    "key": "KRBL.NS",
+    "value": "KRBL.NS"
+  },
+  {
+    "key": "KREBSBIO.NS",
+    "value": "KREBSBIO.NS"
+  },
+  {
+    "key": "KRIDHANINF.NS",
+    "value": "KRIDHANINF.NS"
+  },
+  {
+    "key": "KRISHANA.NS",
+    "value": "KRISHANA.NS"
+  },
+  {
+    "key": "KSB.NS",
+    "value": "KSB.NS"
+  },
+  {
+    "key": "KSCL.NS",
+    "value": "KSCL.NS"
+  },
+  {
+    "key": "KSK.NS",
+    "value": "KSK.NS"
+  },
+  {
+    "key": "KSL.NS",
+    "value": "KSL.NS"
+  },
+  {
+    "key": "KTKBANK.NS",
+    "value": "KTKBANK.NS"
+  },
+  {
+    "key": "KUANTUM.NS",
+    "value": "KUANTUM.NS"
+  },
+  {
+    "key": "KWALITY.NS",
+    "value": "KWALITY.NS"
+  },
+  {
+    "key": "L&TFH.NS",
+    "value": "L&TFH.NS"
+  },
+  {
+    "key": "LAKPRE.NS",
+    "value": "LAKPRE.NS"
+  },
+  {
+    "key": "LALPATHLAB.NS",
+    "value": "LALPATHLAB.NS"
+  },
+  {
+    "key": "LAMBODHARA.NS",
+    "value": "LAMBODHARA.NS"
+  },
+  {
+    "key": "LAOPALA.NS",
+    "value": "LAOPALA.NS"
+  },
+  {
+    "key": "LASA.NS",
+    "value": "LASA.NS"
+  },
+  {
+    "key": "LAURUSLABS.NS",
+    "value": "LAURUSLABS.NS"
+  },
+  {
+    "key": "LAXMIMACH.NS",
+    "value": "LAXMIMACH.NS"
+  },
+  {
+    "key": "LEMONTREE.NS",
+    "value": "LEMONTREE.NS"
+  },
+  {
+    "key": "LFIC.NS",
+    "value": "LFIC.NS"
+  },
+  {
+    "key": "LGBBROSLTD.NS",
+    "value": "LGBBROSLTD.NS"
+  },
+  {
+    "key": "LGBFORGE.NS",
+    "value": "LGBFORGE.NS"
+  },
+  {
+    "key": "LIBAS.NS",
+    "value": "LIBAS.NS"
+  },
+  {
+    "key": "LIBERTSHOE.NS",
+    "value": "LIBERTSHOE.NS"
+  },
+  {
+    "key": "LICHSGFIN.NS",
+    "value": "LICHSGFIN.NS"
+  },
+  {
+    "key": "LIKHITHA.NS",
+    "value": "LIKHITHA.NS"
+  },
+  {
+    "key": "LINCOLN.NS",
+    "value": "LINCOLN.NS"
+  },
+  {
+    "key": "LINCPEN.NS",
+    "value": "LINCPEN.NS"
+  },
+  {
+    "key": "LINDEINDIA.NS",
+    "value": "LINDEINDIA.NS"
+  },
+  {
+    "key": "LOKESHMACH.NS",
+    "value": "LOKESHMACH.NS"
+  },
+  {
+    "key": "LOTUSEYE.NS",
+    "value": "LOTUSEYE.NS"
+  },
+  {
+    "key": "LOVABLE.NS",
+    "value": "LOVABLE.NS"
+  },
+  {
+    "key": "LPDC.NS",
+    "value": "LPDC.NS"
+  },
+  {
+    "key": "LSIL.NS",
+    "value": "LSIL.NS"
+  },
+  {
+    "key": "LT.NS",
+    "value": "LT.NS"
+  },
+  {
+    "key": "LTI.NS",
+    "value": "LTI.NS"
+  },
+  {
+    "key": "LTTS.NS",
+    "value": "LTTS.NS"
+  },
+  {
+    "key": "LUMAXIND.NS",
+    "value": "LUMAXIND.NS"
+  },
+  {
+    "key": "LUMAXTECH.NS",
+    "value": "LUMAXTECH.NS"
+  },
+  {
+    "key": "LUPIN.NS",
+    "value": "LUPIN.NS"
+  },
+  {
+    "key": "LUXIND.NS",
+    "value": "LUXIND.NS"
+  },
+  {
+    "key": "LYKALABS.NS",
+    "value": "LYKALABS.NS"
+  },
+  {
+    "key": "LYPSAGEMS.NS",
+    "value": "LYPSAGEMS.NS"
+  },
+  {
+    "key": "M&M.NS",
+    "value": "M&M.NS"
+  },
+  {
+    "key": "M&MFIN.NS",
+    "value": "M&MFIN.NS"
+  },
+  {
+    "key": "MAANALU.NS",
+    "value": "MAANALU.NS"
+  },
+  {
+    "key": "MACPOWER.NS",
+    "value": "MACPOWER.NS"
+  },
+  {
+    "key": "MADHAV.NS",
+    "value": "MADHAV.NS"
+  },
+  {
+    "key": "MADHUCON.NS",
+    "value": "MADHUCON.NS"
+  },
+  {
+    "key": "MADRASFERT.NS",
+    "value": "MADRASFERT.NS"
+  },
+  {
+    "key": "MAGADSUGAR.NS",
+    "value": "MAGADSUGAR.NS"
+  },
+  {
+    "key": "MAGMA.NS",
+    "value": "MAGMA.NS"
+  },
+  {
+    "key": "MAGNUM.NS",
+    "value": "MAGNUM.NS"
+  },
+  {
+    "key": "MAHABANK.NS",
+    "value": "MAHABANK.NS"
+  },
+  {
+    "key": "MAHAPEXLTD.NS",
+    "value": "MAHAPEXLTD.NS"
+  },
+  {
+    "key": "MAHASTEEL.NS",
+    "value": "MAHASTEEL.NS"
+  },
+  {
+    "key": "MAHEPC.NS",
+    "value": "MAHEPC.NS"
+  },
+  {
+    "key": "MAHESHWARI.NS",
+    "value": "MAHESHWARI.NS"
+  },
+  {
+    "key": "MAHINDCIE.NS",
+    "value": "MAHINDCIE.NS"
+  },
+  {
+    "key": "MAHLIFE.NS",
+    "value": "MAHLIFE.NS"
+  },
+  {
+    "key": "MAHLOG.NS",
+    "value": "MAHLOG.NS"
+  },
+  {
+    "key": "MAHSCOOTER.NS",
+    "value": "MAHSCOOTER.NS"
+  },
+  {
+    "key": "MAHSEAMLES.NS",
+    "value": "MAHSEAMLES.NS"
+  },
+  {
+    "key": "MAITHANALL.NS",
+    "value": "MAITHANALL.NS"
+  },
+  {
+    "key": "MAJESCO.NS",
+    "value": "MAJESCO.NS"
+  },
+  {
+    "key": "MALUPAPER.NS",
+    "value": "MALUPAPER.NS"
+  },
+  {
+    "key": "MANAKALUCO.NS",
+    "value": "MANAKALUCO.NS"
+  },
+  {
+    "key": "MANAKCOAT.NS",
+    "value": "MANAKCOAT.NS"
+  },
+  {
+    "key": "MANAKSIA.NS",
+    "value": "MANAKSIA.NS"
+  },
+  {
+    "key": "MANAKSTEEL.NS",
+    "value": "MANAKSTEEL.NS"
+  },
+  {
+    "key": "MANALIPETC.NS",
+    "value": "MANALIPETC.NS"
+  },
+  {
+    "key": "MANAPPURAM.NS",
+    "value": "MANAPPURAM.NS"
+  },
+  {
+    "key": "MANGALAM.NS",
+    "value": "MANGALAM.NS"
+  },
+  {
+    "key": "MANGCHEFER.NS",
+    "value": "MANGCHEFER.NS"
+  },
+  {
+    "key": "MANGLMCEM.NS",
+    "value": "MANGLMCEM.NS"
+  },
+  {
+    "key": "MANGTIMBER.NS",
+    "value": "MANGTIMBER.NS"
+  },
+  {
+    "key": "MANINDS.NS",
+    "value": "MANINDS.NS"
+  },
+  {
+    "key": "MANINFRA.NS",
+    "value": "MANINFRA.NS"
+  },
+  {
+    "key": "MANUGRAPH.NS",
+    "value": "MANUGRAPH.NS"
+  },
+  {
+    "key": "MARALOVER.NS",
+    "value": "MARALOVER.NS"
+  },
+  {
+    "key": "MARATHON.NS",
+    "value": "MARATHON.NS"
+  },
+  {
+    "key": "MARICO.NS",
+    "value": "MARICO.NS"
+  },
+  {
+    "key": "MARINE.NS",
+    "value": "MARINE.NS"
+  },
+  {
+    "key": "MARKSANS.NS",
+    "value": "MARKSANS.NS"
+  },
+  {
+    "key": "MARUTI.NS",
+    "value": "MARUTI.NS"
+  },
+  {
+    "key": "MASFIN.NS",
+    "value": "MASFIN.NS"
+  },
+  {
+    "key": "MASKINVEST.NS",
+    "value": "MASKINVEST.NS"
+  },
+  {
+    "key": "MASTEK.NS",
+    "value": "MASTEK.NS"
+  },
+  {
+    "key": "MATRIMONY.NS",
+    "value": "MATRIMONY.NS"
+  },
+  {
+    "key": "MAWANASUG.NS",
+    "value": "MAWANASUG.NS"
+  },
+  {
+    "key": "MAXHEALTH.NS",
+    "value": "MAXHEALTH.NS"
+  },
+  {
+    "key": "MAXIND.NS",
+    "value": "MAXIND.NS"
+  },
+  {
+    "key": "MAXVIL.NS",
+    "value": "MAXVIL.NS"
+  },
+  {
+    "key": "MAYURUNIQ.NS",
+    "value": "MAYURUNIQ.NS"
+  },
+  {
+    "key": "MAZDA.NS",
+    "value": "MAZDA.NS"
+  },
+  {
+    "key": "MAZDOCK.NS",
+    "value": "MAZDOCK.NS"
+  },
+  {
+    "key": "MBAPL.NS",
+    "value": "MBAPL.NS"
+  },
+  {
+    "key": "MBECL.NS",
+    "value": "MBECL.NS"
+  },
+  {
+    "key": "MBLINFRA.NS",
+    "value": "MBLINFRA.NS"
+  },
+  {
+    "key": "MCDHOLDING.NS",
+    "value": "MCDHOLDING.NS"
+  },
+  {
+    "key": "MCDOWELL-N.NS",
+    "value": "MCDOWELL-N.NS"
+  },
+  {
+    "key": "MCL.NS",
+    "value": "MCL.NS"
+  },
+  {
+    "key": "MCLEODRUSS.NS",
+    "value": "MCLEODRUSS.NS"
+  },
+  {
+    "key": "MCX.NS",
+    "value": "MCX.NS"
+  },
+  {
+    "key": "MEGASOFT.NS",
+    "value": "MEGASOFT.NS"
+  },
+  {
+    "key": "MEGH.NS",
+    "value": "MEGH.NS"
+  },
+  {
+    "key": "MELSTAR.NS",
+    "value": "MELSTAR.NS"
+  },
+  {
+    "key": "MENONBE.NS",
+    "value": "MENONBE.NS"
+  },
+  {
+    "key": "MEP.NS",
+    "value": "MEP.NS"
+  },
+  {
+    "key": "MERCATOR.NS",
+    "value": "MERCATOR.NS"
+  },
+  {
+    "key": "METALFORGE.NS",
+    "value": "METALFORGE.NS"
+  },
+  {
+    "key": "METKORE.NS",
+    "value": "METKORE.NS"
+  },
+  {
+    "key": "METROPOLIS.NS",
+    "value": "METROPOLIS.NS"
+  },
+  {
+    "key": "MFSL.NS",
+    "value": "MFSL.NS"
+  },
+  {
+    "key": "MGEL.NS",
+    "value": "MGEL.NS"
+  },
+  {
+    "key": "MGL.NS",
+    "value": "MGL.NS"
+  },
+  {
+    "key": "MHRIL.NS",
+    "value": "MHRIL.NS"
+  },
+  {
+    "key": "MIC.NS",
+    "value": "MIC.NS"
+  },
+  {
+    "key": "MIDHANI.NS",
+    "value": "MIDHANI.NS"
+  },
+  {
+    "key": "MINDACORP.NS",
+    "value": "MINDACORP.NS"
+  },
+  {
+    "key": "MINDAIND.NS",
+    "value": "MINDAIND.NS"
+  },
+  {
+    "key": "MINDTECK.NS",
+    "value": "MINDTECK.NS"
+  },
+  {
+    "key": "MINDTREE.NS",
+    "value": "MINDTREE.NS"
+  },
+  {
+    "key": "MIRCELECTR.NS",
+    "value": "MIRCELECTR.NS"
+  },
+  {
+    "key": "MIRZAINT.NS",
+    "value": "MIRZAINT.NS"
+  },
+  {
+    "key": "MITTAL.NS",
+    "value": "MITTAL.NS"
+  },
+  {
+    "key": "MMFL.NS",
+    "value": "MMFL.NS"
+  },
+  {
+    "key": "MMP.NS",
+    "value": "MMP.NS"
+  },
+  {
+    "key": "MMTC.NS",
+    "value": "MMTC.NS"
+  },
+  {
+    "key": "MODIRUBBER.NS",
+    "value": "MODIRUBBER.NS"
+  },
+  {
+    "key": "MOHITIND.NS",
+    "value": "MOHITIND.NS"
+  },
+  {
+    "key": "MOHOTAIND.NS",
+    "value": "MOHOTAIND.NS"
+  },
+  {
+    "key": "MOIL.NS",
+    "value": "MOIL.NS"
+  },
+  {
+    "key": "MOLDTECH.NS",
+    "value": "MOLDTECH.NS"
+  },
+  {
+    "key": "MOLDTKPAC.NS",
+    "value": "MOLDTKPAC.NS"
+  },
+  {
+    "key": "MONTECARLO.NS",
+    "value": "MONTECARLO.NS"
+  },
+  {
+    "key": "MORARJEE.NS",
+    "value": "MORARJEE.NS"
+  },
+  {
+    "key": "MOREPENLAB.NS",
+    "value": "MOREPENLAB.NS"
+  },
+  {
+    "key": "MOTHERSUMI.NS",
+    "value": "MOTHERSUMI.NS"
+  },
+  {
+    "key": "MOTILALOFS.NS",
+    "value": "MOTILALOFS.NS"
+  },
+  {
+    "key": "MOTOGENFIN.NS",
+    "value": "MOTOGENFIN.NS"
+  },
+  {
+    "key": "MPHASIS.NS",
+    "value": "MPHASIS.NS"
+  },
+  {
+    "key": "MPSLTD.NS",
+    "value": "MPSLTD.NS"
+  },
+  {
+    "key": "MRF.NS",
+    "value": "MRF.NS"
+  },
+  {
+    "key": "MRO-TEK.NS",
+    "value": "MRO-TEK.NS"
+  },
+  {
+    "key": "MRPL.NS",
+    "value": "MRPL.NS"
+  },
+  {
+    "key": "MSPL.NS",
+    "value": "MSPL.NS"
+  },
+  {
+    "key": "MSTCLTD.NS",
+    "value": "MSTCLTD.NS"
+  },
+  {
+    "key": "MTEDUCARE.NS",
+    "value": "MTEDUCARE.NS"
+  },
+  {
+    "key": "MTNL.NS",
+    "value": "MTNL.NS"
+  },
+  {
+    "key": "MUKANDENGG.NS",
+    "value": "MUKANDENGG.NS"
+  },
+  {
+    "key": "MUKANDLTD.NS",
+    "value": "MUKANDLTD.NS"
+  },
+  {
+    "key": "MUKTAARTS.NS",
+    "value": "MUKTAARTS.NS"
+  },
+  {
+    "key": "MUNJALAU.NS",
+    "value": "MUNJALAU.NS"
+  },
+  {
+    "key": "MUNJALSHOW.NS",
+    "value": "MUNJALSHOW.NS"
+  },
+  {
+    "key": "MURUDCERA.NS",
+    "value": "MURUDCERA.NS"
+  },
+  {
+    "key": "MUTHOOTCAP.NS",
+    "value": "MUTHOOTCAP.NS"
+  },
+  {
+    "key": "MUTHOOTFIN.NS",
+    "value": "MUTHOOTFIN.NS"
+  },
+  {
+    "key": "NACLIND.NS",
+    "value": "NACLIND.NS"
+  },
+  {
+    "key": "NAGAFERT.NS",
+    "value": "NAGAFERT.NS"
+  },
+  {
+    "key": "NAGREEKCAP.NS",
+    "value": "NAGREEKCAP.NS"
+  },
+  {
+    "key": "NAGREEKEXP.NS",
+    "value": "NAGREEKEXP.NS"
+  },
+  {
+    "key": "NAHARCAP.NS",
+    "value": "NAHARCAP.NS"
+  },
+  {
+    "key": "NAHARINDUS.NS",
+    "value": "NAHARINDUS.NS"
+  },
+  {
+    "key": "NAHARPOLY.NS",
+    "value": "NAHARPOLY.NS"
+  },
+  {
+    "key": "NAHARSPING.NS",
+    "value": "NAHARSPING.NS"
+  },
+  {
+    "key": "NAM-INDIA.NS",
+    "value": "NAM-INDIA.NS"
+  },
+  {
+    "key": "NATCOPHARM.NS",
+    "value": "NATCOPHARM.NS"
+  },
+  {
+    "key": "NATHBIOGEN.NS",
+    "value": "NATHBIOGEN.NS"
+  },
+  {
+    "key": "NATIONALUM.NS",
+    "value": "NATIONALUM.NS"
+  },
+  {
+    "key": "NATNLSTEEL.NS",
+    "value": "NATNLSTEEL.NS"
+  },
+  {
+    "key": "NAUKRI.NS",
+    "value": "NAUKRI.NS"
+  },
+  {
+    "key": "NAVINFLUOR.NS",
+    "value": "NAVINFLUOR.NS"
+  },
+  {
+    "key": "NAVKARCORP.NS",
+    "value": "NAVKARCORP.NS"
+  },
+  {
+    "key": "NAVNETEDUL.NS",
+    "value": "NAVNETEDUL.NS"
+  },
+  {
+    "key": "NBCC.NS",
+    "value": "NBCC.NS"
+  },
+  {
+    "key": "NBIFIN.NS",
+    "value": "NBIFIN.NS"
+  },
+  {
+    "key": "NBVENTURES.NS",
+    "value": "NBVENTURES.NS"
+  },
+  {
+    "key": "NCC.NS",
+    "value": "NCC.NS"
+  },
+  {
+    "key": "NCLIND.NS",
+    "value": "NCLIND.NS"
+  },
+  {
+    "key": "NDGL.NS",
+    "value": "NDGL.NS"
+  },
+  {
+    "key": "NDL.NS",
+    "value": "NDL.NS"
+  },
+  {
+    "key": "NDRAUTO.NS",
+    "value": "NDRAUTO.NS"
+  },
+  {
+    "key": "NDTV.NS",
+    "value": "NDTV.NS"
+  },
+  {
+    "key": "NECCLTD.NS",
+    "value": "NECCLTD.NS"
+  },
+  {
+    "key": "NECLIFE.NS",
+    "value": "NECLIFE.NS"
+  },
+  {
+    "key": "NELCAST.NS",
+    "value": "NELCAST.NS"
+  },
+  {
+    "key": "NELCO.NS",
+    "value": "NELCO.NS"
+  },
+  {
+    "key": "NEOGEN.NS",
+    "value": "NEOGEN.NS"
+  },
+  {
+    "key": "NESCO.NS",
+    "value": "NESCO.NS"
+  },
+  {
+    "key": "NESTLEIND.NS",
+    "value": "NESTLEIND.NS"
+  },
+  {
+    "key": "NETWORK18.NS",
+    "value": "NETWORK18.NS"
+  },
+  {
+    "key": "NEULANDLAB.NS",
+    "value": "NEULANDLAB.NS"
+  },
+  {
+    "key": "NEWGEN.NS",
+    "value": "NEWGEN.NS"
+  },
+  {
+    "key": "NEXTMEDIA.NS",
+    "value": "NEXTMEDIA.NS"
+  },
+  {
+    "key": "NFL.NS",
+    "value": "NFL.NS"
+  },
+  {
+    "key": "NH.NS",
+    "value": "NH.NS"
+  },
+  {
+    "key": "NHPC.NS",
+    "value": "NHPC.NS"
+  },
+  {
+    "key": "NIACL.NS",
+    "value": "NIACL.NS"
+  },
+  {
+    "key": "NIITLTD.NS",
+    "value": "NIITLTD.NS"
+  },
+  {
+    "key": "NILAINFRA.NS",
+    "value": "NILAINFRA.NS"
+  },
+  {
+    "key": "NILASPACES.NS",
+    "value": "NILASPACES.NS"
+  },
+  {
+    "key": "NILKAMAL.NS",
+    "value": "NILKAMAL.NS"
+  },
+  {
+    "key": "NIPPOBATRY.NS",
+    "value": "NIPPOBATRY.NS"
+  },
+  {
+    "key": "NIRAJ.NS",
+    "value": "NIRAJ.NS"
+  },
+  {
+    "key": "NIRAJISPAT.NS",
+    "value": "NIRAJISPAT.NS"
+  },
+  {
+    "key": "NITCO.NS",
+    "value": "NITCO.NS"
+  },
+  {
+    "key": "NITINFIRE.NS",
+    "value": "NITINFIRE.NS"
+  },
+  {
+    "key": "NITINSPIN.NS",
+    "value": "NITINSPIN.NS"
+  },
+  {
+    "key": "NKIND.NS",
+    "value": "NKIND.NS"
+  },
+  {
+    "key": "NLCINDIA.NS",
+    "value": "NLCINDIA.NS"
+  },
+  {
+    "key": "NMDC.NS",
+    "value": "NMDC.NS"
+  },
+  {
+    "key": "NOCIL.NS",
+    "value": "NOCIL.NS"
+  },
+  {
+    "key": "NOIDATOLL.NS",
+    "value": "NOIDATOLL.NS"
+  },
+  {
+    "key": "NORBTEAEXP.NS",
+    "value": "NORBTEAEXP.NS"
+  },
+  {
+    "key": "NOVARTIND.NS",
+    "value": "NOVARTIND.NS"
+  },
+  {
+    "key": "NRAIL.NS",
+    "value": "NRAIL.NS"
+  },
+  {
+    "key": "NRBBEARING.NS",
+    "value": "NRBBEARING.NS"
+  },
+  {
+    "key": "NSIL.NS",
+    "value": "NSIL.NS"
+  },
+  {
+    "key": "NTL.NS",
+    "value": "NTL.NS"
+  },
+  {
+    "key": "NTPC.NS",
+    "value": "NTPC.NS"
+  },
+  {
+    "key": "NUCLEUS.NS",
+    "value": "NUCLEUS.NS"
+  },
+  {
+    "key": "NXTDIGITAL.NS",
+    "value": "NXTDIGITAL.NS"
+  },
+  {
+    "key": "OAL.NS",
+    "value": "OAL.NS"
+  },
+  {
+    "key": "OBEROIRLTY.NS",
+    "value": "OBEROIRLTY.NS"
+  },
+  {
+    "key": "OCCL.NS",
+    "value": "OCCL.NS"
+  },
+  {
+    "key": "OFSS.NS",
+    "value": "OFSS.NS"
+  },
+  {
+    "key": "OIL.NS",
+    "value": "OIL.NS"
+  },
+  {
+    "key": "OISL.NS",
+    "value": "OISL.NS"
+  },
+  {
+    "key": "OLECTRA.NS",
+    "value": "OLECTRA.NS"
+  },
+  {
+    "key": "OMAXAUTO.NS",
+    "value": "OMAXAUTO.NS"
+  },
+  {
+    "key": "OMAXE.NS",
+    "value": "OMAXE.NS"
+  },
+  {
+    "key": "OMMETALS.NS",
+    "value": "OMMETALS.NS"
+  },
+  {
+    "key": "ONELIFECAP.NS",
+    "value": "ONELIFECAP.NS"
+  },
+  {
+    "key": "ONEPOINT.NS",
+    "value": "ONEPOINT.NS"
+  },
+  {
+    "key": "ONGC.NS",
+    "value": "ONGC.NS"
+  },
+  {
+    "key": "ONMOBILE.NS",
+    "value": "ONMOBILE.NS"
+  },
+  {
+    "key": "ONWARDTEC.NS",
+    "value": "ONWARDTEC.NS"
+  },
+  {
+    "key": "OPTIEMUS.NS",
+    "value": "OPTIEMUS.NS"
+  },
+  {
+    "key": "OPTOCIRCUI.NS",
+    "value": "OPTOCIRCUI.NS"
+  },
+  {
+    "key": "ORBTEXP.NS",
+    "value": "ORBTEXP.NS"
+  },
+  {
+    "key": "ORCHPHARMA.NS",
+    "value": "ORCHPHARMA.NS"
+  },
+  {
+    "key": "ORICONENT.NS",
+    "value": "ORICONENT.NS"
+  },
+  {
+    "key": "ORIENTABRA.NS",
+    "value": "ORIENTABRA.NS"
+  },
+  {
+    "key": "ORIENTALTL.NS",
+    "value": "ORIENTALTL.NS"
+  },
+  {
+    "key": "ORIENTBELL.NS",
+    "value": "ORIENTBELL.NS"
+  },
+  {
+    "key": "ORIENTCEM.NS",
+    "value": "ORIENTCEM.NS"
+  },
+  {
+    "key": "ORIENTELEC.NS",
+    "value": "ORIENTELEC.NS"
+  },
+  {
+    "key": "ORIENTHOT.NS",
+    "value": "ORIENTHOT.NS"
+  },
+  {
+    "key": "ORIENTLTD.NS",
+    "value": "ORIENTLTD.NS"
+  },
+  {
+    "key": "ORIENTPPR.NS",
+    "value": "ORIENTPPR.NS"
+  },
+  {
+    "key": "ORIENTREF.NS",
+    "value": "ORIENTREF.NS"
+  },
+  {
+    "key": "ORISSAMINE.NS",
+    "value": "ORISSAMINE.NS"
+  },
+  {
+    "key": "ORTEL.NS",
+    "value": "ORTEL.NS"
+  },
+  {
+    "key": "OSWALAGRO.NS",
+    "value": "OSWALAGRO.NS"
+  },
+  {
+    "key": "PAEL.NS",
+    "value": "PAEL.NS"
+  },
+  {
+    "key": "PAGEIND.NS",
+    "value": "PAGEIND.NS"
+  },
+  {
+    "key": "PAISALO.NS",
+    "value": "PAISALO.NS"
+  },
+  {
+    "key": "PALASHSECU.NS",
+    "value": "PALASHSECU.NS"
+  },
+  {
+    "key": "PALREDTEC.NS",
+    "value": "PALREDTEC.NS"
+  },
+  {
+    "key": "PANACEABIO.NS",
+    "value": "PANACEABIO.NS"
+  },
+  {
+    "key": "PANACHE.NS",
+    "value": "PANACHE.NS"
+  },
+  {
+    "key": "PANAMAPET.NS",
+    "value": "PANAMAPET.NS"
+  },
+  {
+    "key": "PARABDRUGS.NS",
+    "value": "PARABDRUGS.NS"
+  },
+  {
+    "key": "PARACABLES.NS",
+    "value": "PARACABLES.NS"
+  },
+  {
+    "key": "PARAGMILK.NS",
+    "value": "PARAGMILK.NS"
+  },
+  {
+    "key": "PARSVNATH.NS",
+    "value": "PARSVNATH.NS"
+  },
+  {
+    "key": "PATELENG.NS",
+    "value": "PATELENG.NS"
+  },
+  {
+    "key": "PATINTLOG.NS",
+    "value": "PATINTLOG.NS"
+  },
+  {
+    "key": "PATSPINLTD.NS",
+    "value": "PATSPINLTD.NS"
+  },
+  {
+    "key": "PCJEWELLER.NS",
+    "value": "PCJEWELLER.NS"
+  },
+  {
+    "key": "PDMJEPAPER.NS",
+    "value": "PDMJEPAPER.NS"
+  },
+  {
+    "key": "PDSMFL.NS",
+    "value": "PDSMFL.NS"
+  },
+  {
+    "key": "PEARLPOLY.NS",
+    "value": "PEARLPOLY.NS"
+  },
+  {
+    "key": "PEL.NS",
+    "value": "PEL.NS"
+  },
+  {
+    "key": "PENIND.NS",
+    "value": "PENIND.NS"
+  },
+  {
+    "key": "PENINLAND.NS",
+    "value": "PENINLAND.NS"
+  },
+  {
+    "key": "PERSISTENT.NS",
+    "value": "PERSISTENT.NS"
+  },
+  {
+    "key": "PETRONET.NS",
+    "value": "PETRONET.NS"
+  },
+  {
+    "key": "PFC.NS",
+    "value": "PFC.NS"
+  },
+  {
+    "key": "PFIZER.NS",
+    "value": "PFIZER.NS"
+  },
+  {
+    "key": "PFOCUS.NS",
+    "value": "PFOCUS.NS"
+  },
+  {
+    "key": "PFS.NS",
+    "value": "PFS.NS"
+  },
+  {
+    "key": "PGEL.NS",
+    "value": "PGEL.NS"
+  },
+  {
+    "key": "PGHH.NS",
+    "value": "PGHH.NS"
+  },
+  {
+    "key": "PGHL.NS",
+    "value": "PGHL.NS"
+  },
+  {
+    "key": "PGIL.NS",
+    "value": "PGIL.NS"
+  },
+  {
+    "key": "PHILIPCARB.NS",
+    "value": "PHILIPCARB.NS"
+  },
+  {
+    "key": "PHOENIXLTD.NS",
+    "value": "PHOENIXLTD.NS"
+  },
+  {
+    "key": "PIDILITIND.NS",
+    "value": "PIDILITIND.NS"
+  },
+  {
+    "key": "PIIND.NS",
+    "value": "PIIND.NS"
+  },
+  {
+    "key": "PILANIINVS.NS",
+    "value": "PILANIINVS.NS"
+  },
+  {
+    "key": "PILITA.NS",
+    "value": "PILITA.NS"
+  },
+  {
+    "key": "PIONDIST.NS",
+    "value": "PIONDIST.NS"
+  },
+  {
+    "key": "PIONEEREMB.NS",
+    "value": "PIONEEREMB.NS"
+  },
+  {
+    "key": "PITTIENG.NS",
+    "value": "PITTIENG.NS"
+  },
+  {
+    "key": "PKTEA.NS",
+    "value": "PKTEA.NS"
+  },
+  {
+    "key": "PLASTIBLEN.NS",
+    "value": "PLASTIBLEN.NS"
+  },
+  {
+    "key": "PNB.NS",
+    "value": "PNB.NS"
+  },
+  {
+    "key": "PNBGILTS.NS",
+    "value": "PNBGILTS.NS"
+  },
+  {
+    "key": "PNBHOUSING.NS",
+    "value": "PNBHOUSING.NS"
+  },
+  {
+    "key": "PNC.NS",
+    "value": "PNC.NS"
+  },
+  {
+    "key": "PNCINFRA.NS",
+    "value": "PNCINFRA.NS"
+  },
+  {
+    "key": "PODDARHOUS.NS",
+    "value": "PODDARHOUS.NS"
+  },
+  {
+    "key": "PODDARMENT.NS",
+    "value": "PODDARMENT.NS"
+  },
+  {
+    "key": "POKARNA.NS",
+    "value": "POKARNA.NS"
+  },
+  {
+    "key": "POLYCAB.NS",
+    "value": "POLYCAB.NS"
+  },
+  {
+    "key": "POLYMED.NS",
+    "value": "POLYMED.NS"
+  },
+  {
+    "key": "POLYPLEX.NS",
+    "value": "POLYPLEX.NS"
+  },
+  {
+    "key": "PONNIERODE.NS",
+    "value": "PONNIERODE.NS"
+  },
+  {
+    "key": "POWERGRID.NS",
+    "value": "POWERGRID.NS"
+  },
+  {
+    "key": "POWERINDIA.NS",
+    "value": "POWERINDIA.NS"
+  },
+  {
+    "key": "POWERMECH.NS",
+    "value": "POWERMECH.NS"
+  },
+  {
+    "key": "PPAP.NS",
+    "value": "PPAP.NS"
+  },
+  {
+    "key": "PPL.NS",
+    "value": "PPL.NS"
+  },
+  {
+    "key": "PRABHAT.NS",
+    "value": "PRABHAT.NS"
+  },
+  {
+    "key": "PRAENG.NS",
+    "value": "PRAENG.NS"
+  },
+  {
+    "key": "PRAJIND.NS",
+    "value": "PRAJIND.NS"
+  },
+  {
+    "key": "PRAKASH.NS",
+    "value": "PRAKASH.NS"
+  },
+  {
+    "key": "PRAKASHSTL.NS",
+    "value": "PRAKASHSTL.NS"
+  },
+  {
+    "key": "PRAXIS.NS",
+    "value": "PRAXIS.NS"
+  },
+  {
+    "key": "PRECAM.NS",
+    "value": "PRECAM.NS"
+  },
+  {
+    "key": "PRECOT.NS",
+    "value": "PRECOT.NS"
+  },
+  {
+    "key": "PRECWIRE.NS",
+    "value": "PRECWIRE.NS"
+  },
+  {
+    "key": "PREMEXPLN.NS",
+    "value": "PREMEXPLN.NS"
+  },
+  {
+    "key": "PREMIER.NS",
+    "value": "PREMIER.NS"
+  },
+  {
+    "key": "PREMIERPOL.NS",
+    "value": "PREMIERPOL.NS"
+  },
+  {
+    "key": "PRESSMN.NS",
+    "value": "PRESSMN.NS"
+  },
+  {
+    "key": "PRESTIGE.NS",
+    "value": "PRESTIGE.NS"
+  },
+  {
+    "key": "PRICOLLTD.NS",
+    "value": "PRICOLLTD.NS"
+  },
+  {
+    "key": "PRIMESECU.NS",
+    "value": "PRIMESECU.NS"
+  },
+  {
+    "key": "PRINCEPIPE.NS",
+    "value": "PRINCEPIPE.NS"
+  },
+  {
+    "key": "PRIVISCL.NS",
+    "value": "PRIVISCL.NS"
+  },
+  {
+    "key": "PROZONINTU.NS",
+    "value": "PROZONINTU.NS"
+  },
+  {
+    "key": "PRSMJOHNSN.NS",
+    "value": "PRSMJOHNSN.NS"
+  },
+  {
+    "key": "PSB.NS",
+    "value": "PSB.NS"
+  },
+  {
+    "key": "PSPPROJECT.NS",
+    "value": "PSPPROJECT.NS"
+  },
+  {
+    "key": "PTC.NS",
+    "value": "PTC.NS"
+  },
+  {
+    "key": "PTL.NS",
+    "value": "PTL.NS"
+  },
+  {
+    "key": "PUNJABCHEM.NS",
+    "value": "PUNJABCHEM.NS"
+  },
+  {
+    "key": "PUNJLLOYD.NS",
+    "value": "PUNJLLOYD.NS"
+  },
+  {
+    "key": "PURVA.NS",
+    "value": "PURVA.NS"
+  },
+  {
+    "key": "PVR.NS",
+    "value": "PVR.NS"
+  },
+  {
+    "key": "QUESS.NS",
+    "value": "QUESS.NS"
+  },
+  {
+    "key": "QUICKHEAL.NS",
+    "value": "QUICKHEAL.NS"
+  },
+  {
+    "key": "RADAAN.NS",
+    "value": "RADAAN.NS"
+  },
+  {
+    "key": "RADICO.NS",
+    "value": "RADICO.NS"
+  },
+  {
+    "key": "RADIOCITY.NS",
+    "value": "RADIOCITY.NS"
+  },
+  {
+    "key": "RAIN.NS",
+    "value": "RAIN.NS"
+  },
+  {
+    "key": "RAJESHEXPO.NS",
+    "value": "RAJESHEXPO.NS"
+  },
+  {
+    "key": "RAJRATAN.NS",
+    "value": "RAJRATAN.NS"
+  },
+  {
+    "key": "RAJRAYON.NS",
+    "value": "RAJRAYON.NS"
+  },
+  {
+    "key": "RAJSREESUG.NS",
+    "value": "RAJSREESUG.NS"
+  },
+  {
+    "key": "RAJTV.NS",
+    "value": "RAJTV.NS"
+  },
+  {
+    "key": "RALLIS.NS",
+    "value": "RALLIS.NS"
+  },
+  {
+    "key": "RAMANEWS.NS",
+    "value": "RAMANEWS.NS"
+  },
+  {
+    "key": "RAMASTEEL.NS",
+    "value": "RAMASTEEL.NS"
+  },
+  {
+    "key": "RAMCOCEM.NS",
+    "value": "RAMCOCEM.NS"
+  },
+  {
+    "key": "RAMCOIND.NS",
+    "value": "RAMCOIND.NS"
+  },
+  {
+    "key": "RAMCOSYS.NS",
+    "value": "RAMCOSYS.NS"
+  },
+  {
+    "key": "RAMKY.NS",
+    "value": "RAMKY.NS"
+  },
+  {
+    "key": "RAMSARUP.NS",
+    "value": "RAMSARUP.NS"
+  },
+  {
+    "key": "RANASUG.NS",
+    "value": "RANASUG.NS"
+  },
+  {
+    "key": "RANEENGINE.NS",
+    "value": "RANEENGINE.NS"
+  },
+  {
+    "key": "RANEHOLDIN.NS",
+    "value": "RANEHOLDIN.NS"
+  },
+  {
+    "key": "RATNAMANI.NS",
+    "value": "RATNAMANI.NS"
+  },
+  {
+    "key": "RAYMOND.NS",
+    "value": "RAYMOND.NS"
+  },
+  {
+    "key": "RBL.NS",
+    "value": "RBL.NS"
+  },
+  {
+    "key": "RBLBANK.NS",
+    "value": "RBLBANK.NS"
+  },
+  {
+    "key": "RCF.NS",
+    "value": "RCF.NS"
+  },
+  {
+    "key": "RCOM.NS",
+    "value": "RCOM.NS"
+  },
+  {
+    "key": "RECLTD.NS",
+    "value": "RECLTD.NS"
+  },
+  {
+    "key": "REDINGTON.NS",
+    "value": "REDINGTON.NS"
+  },
+  {
+    "key": "REFEX.NS",
+    "value": "REFEX.NS"
+  },
+  {
+    "key": "RELAXO.NS",
+    "value": "RELAXO.NS"
+  },
+  {
+    "key": "RELCAPITAL.NS",
+    "value": "RELCAPITAL.NS"
+  },
+  {
+    "key": "RELIANCE.NS",
+    "value": "RELIANCE.NS"
+  },
+  {
+    "key": "RELIGARE.NS",
+    "value": "RELIGARE.NS"
+  },
+  {
+    "key": "RELINFRA.NS",
+    "value": "RELINFRA.NS"
+  },
+  {
+    "key": "REMSONSIND.NS",
+    "value": "REMSONSIND.NS"
+  },
+  {
+    "key": "RENUKA.NS",
+    "value": "RENUKA.NS"
+  },
+  {
+    "key": "REPCOHOME.NS",
+    "value": "REPCOHOME.NS"
+  },
+  {
+    "key": "REPL.NS",
+    "value": "REPL.NS"
+  },
+  {
+    "key": "REPRO.NS",
+    "value": "REPRO.NS"
+  },
+  {
+    "key": "RESPONIND.NS",
+    "value": "RESPONIND.NS"
+  },
+  {
+    "key": "REVATHI.NS",
+    "value": "REVATHI.NS"
+  },
+  {
+    "key": "RGL.NS",
+    "value": "RGL.NS"
+  },
+  {
+    "key": "RHFL.NS",
+    "value": "RHFL.NS"
+  },
+  {
+    "key": "RICOAUTO.NS",
+    "value": "RICOAUTO.NS"
+  },
+  {
+    "key": "RIIL.NS",
+    "value": "RIIL.NS"
+  },
+  {
+    "key": "RITES.NS",
+    "value": "RITES.NS"
+  },
+  {
+    "key": "RKDL.NS",
+    "value": "RKDL.NS"
+  },
+  {
+    "key": "RKEC.NS",
+    "value": "RKEC.NS"
+  },
+  {
+    "key": "RKFORGE.NS",
+    "value": "RKFORGE.NS"
+  },
+  {
+    "key": "RMCL.NS",
+    "value": "RMCL.NS"
+  },
+  {
+    "key": "RML.NS",
+    "value": "RML.NS"
+  },
+  {
+    "key": "RNAVAL.NS",
+    "value": "RNAVAL.NS"
+  },
+  {
+    "key": "ROHITFERRO.NS",
+    "value": "ROHITFERRO.NS"
+  },
+  {
+    "key": "ROHLTD.NS",
+    "value": "ROHLTD.NS"
+  },
+  {
+    "key": "ROLLT.NS",
+    "value": "ROLLT.NS"
+  },
+  {
+    "key": "ROLTA.NS",
+    "value": "ROLTA.NS"
+  },
+  {
+    "key": "ROML.NS",
+    "value": "ROML.NS"
+  },
+  {
+    "key": "ROSSARI.NS",
+    "value": "ROSSARI.NS"
+  },
+  {
+    "key": "ROSSELLIND.NS",
+    "value": "ROSSELLIND.NS"
+  },
+  {
+    "key": "ROUTE.NS",
+    "value": "ROUTE.NS"
+  },
+  {
+    "key": "RPGLIFE.NS",
+    "value": "RPGLIFE.NS"
+  },
+  {
+    "key": "RPOWER.NS",
+    "value": "RPOWER.NS"
+  },
+  {
+    "key": "RPPINFRA.NS",
+    "value": "RPPINFRA.NS"
+  },
+  {
+    "key": "RSSOFTWARE.NS",
+    "value": "RSSOFTWARE.NS"
+  },
+  {
+    "key": "RSWM.NS",
+    "value": "RSWM.NS"
+  },
+  {
+    "key": "RSYSTEMS.NS",
+    "value": "RSYSTEMS.NS"
+  },
+  {
+    "key": "RTNINFRA.NS",
+    "value": "RTNINFRA.NS"
+  },
+  {
+    "key": "RTNPOWER.NS",
+    "value": "RTNPOWER.NS"
+  },
+  {
+    "key": "RUBYMILLS.NS",
+    "value": "RUBYMILLS.NS"
+  },
+  {
+    "key": "RUCHI.NS",
+    "value": "RUCHI.NS"
+  },
+  {
+    "key": "RUCHINFRA.NS",
+    "value": "RUCHINFRA.NS"
+  },
+  {
+    "key": "RUCHIRA.NS",
+    "value": "RUCHIRA.NS"
+  },
+  {
+    "key": "RUPA.NS",
+    "value": "RUPA.NS"
+  },
+  {
+    "key": "RUSHIL.NS",
+    "value": "RUSHIL.NS"
+  },
+  {
+    "key": "RVHL.NS",
+    "value": "RVHL.NS"
+  },
+  {
+    "key": "RVNL.NS",
+    "value": "RVNL.NS"
+  },
+  {
+    "key": "S&SPOWER.NS",
+    "value": "S&SPOWER.NS"
+  },
+  {
+    "key": "SABEVENTS.NS",
+    "value": "SABEVENTS.NS"
+  },
+  {
+    "key": "SADBHAV.NS",
+    "value": "SADBHAV.NS"
+  },
+  {
+    "key": "SADBHIN.NS",
+    "value": "SADBHIN.NS"
+  },
+  {
+    "key": "SAFARI.NS",
+    "value": "SAFARI.NS"
+  },
+  {
+    "key": "SAGARDEEP.NS",
+    "value": "SAGARDEEP.NS"
+  },
+  {
+    "key": "SAGCEM.NS",
+    "value": "SAGCEM.NS"
+  },
+  {
+    "key": "SAIL.NS",
+    "value": "SAIL.NS"
+  },
+  {
+    "key": "SAKAR.NS",
+    "value": "SAKAR.NS"
+  },
+  {
+    "key": "SAKHTISUG.NS",
+    "value": "SAKHTISUG.NS"
+  },
+  {
+    "key": "SAKSOFT.NS",
+    "value": "SAKSOFT.NS"
+  },
+  {
+    "key": "SAKUMA.NS",
+    "value": "SAKUMA.NS"
+  },
+  {
+    "key": "SALASAR.NS",
+    "value": "SALASAR.NS"
+  },
+  {
+    "key": "SALONA.NS",
+    "value": "SALONA.NS"
+  },
+  {
+    "key": "SALSTEEL.NS",
+    "value": "SALSTEEL.NS"
+  },
+  {
+    "key": "SALZERELEC.NS",
+    "value": "SALZERELEC.NS"
+  },
+  {
+    "key": "SAMBHAAV.NS",
+    "value": "SAMBHAAV.NS"
+  },
+  {
+    "key": "SANCO.NS",
+    "value": "SANCO.NS"
+  },
+  {
+    "key": "SANDESH.NS",
+    "value": "SANDESH.NS"
+  },
+  {
+    "key": "SANDHAR.NS",
+    "value": "SANDHAR.NS"
+  },
+  {
+    "key": "SANGAMIND.NS",
+    "value": "SANGAMIND.NS"
+  },
+  {
+    "key": "SANGHIIND.NS",
+    "value": "SANGHIIND.NS"
+  },
+  {
+    "key": "SANGHVIFOR.NS",
+    "value": "SANGHVIFOR.NS"
+  },
+  {
+    "key": "SANGHVIMOV.NS",
+    "value": "SANGHVIMOV.NS"
+  },
+  {
+    "key": "SANGINITA.NS",
+    "value": "SANGINITA.NS"
+  },
+  {
+    "key": "SANOFI.NS",
+    "value": "SANOFI.NS"
+  },
+  {
+    "key": "SANWARIA.NS",
+    "value": "SANWARIA.NS"
+  },
+  {
+    "key": "SARDAEN.NS",
+    "value": "SARDAEN.NS"
+  },
+  {
+    "key": "SAREGAMA.NS",
+    "value": "SAREGAMA.NS"
+  },
+  {
+    "key": "SARLAPOLY.NS",
+    "value": "SARLAPOLY.NS"
+  },
+  {
+    "key": "SASKEN.NS",
+    "value": "SASKEN.NS"
+  },
+  {
+    "key": "SASTASUNDR.NS",
+    "value": "SASTASUNDR.NS"
+  },
+  {
+    "key": "SATIA.NS",
+    "value": "SATIA.NS"
+  },
+  {
+    "key": "SATIN.NS",
+    "value": "SATIN.NS"
+  },
+  {
+    "key": "SBICARD.NS",
+    "value": "SBICARD.NS"
+  },
+  {
+    "key": "SBILIFE.NS",
+    "value": "SBILIFE.NS"
+  },
+  {
+    "key": "SBIN.NS",
+    "value": "SBIN.NS"
+  },
+  {
+    "key": "SCAPDVR.NS",
+    "value": "SCAPDVR.NS"
+  },
+  {
+    "key": "SCHAEFFLER.NS",
+    "value": "SCHAEFFLER.NS"
+  },
+  {
+    "key": "SCHAND.NS",
+    "value": "SCHAND.NS"
+  },
+  {
+    "key": "SCHNEIDER.NS",
+    "value": "SCHNEIDER.NS"
+  },
+  {
+    "key": "SCI.NS",
+    "value": "SCI.NS"
+  },
+  {
+    "key": "SDBL.NS",
+    "value": "SDBL.NS"
+  },
+  {
+    "key": "SEAMECLTD.NS",
+    "value": "SEAMECLTD.NS"
+  },
+  {
+    "key": "SELAN.NS",
+    "value": "SELAN.NS"
+  },
+  {
+    "key": "SELMCL.NS",
+    "value": "SELMCL.NS"
+  },
+  {
+    "key": "SEPOWER.NS",
+    "value": "SEPOWER.NS"
+  },
+  {
+    "key": "SEQUENT.NS",
+    "value": "SEQUENT.NS"
+  },
+  {
+    "key": "SESHAPAPER.NS",
+    "value": "SESHAPAPER.NS"
+  },
+  {
+    "key": "SETCO.NS",
+    "value": "SETCO.NS"
+  },
+  {
+    "key": "SETUINFRA.NS",
+    "value": "SETUINFRA.NS"
+  },
+  {
+    "key": "SEYAIND.NS",
+    "value": "SEYAIND.NS"
+  },
+  {
+    "key": "SEZAL.NS",
+    "value": "SEZAL.NS"
+  },
+  {
+    "key": "SFL.NS",
+    "value": "SFL.NS"
+  },
+  {
+    "key": "SGL.NS",
+    "value": "SGL.NS"
+  },
+  {
+    "key": "SHAHALLOYS.NS",
+    "value": "SHAHALLOYS.NS"
+  },
+  {
+    "key": "SHAKTIPUMP.NS",
+    "value": "SHAKTIPUMP.NS"
+  },
+  {
+    "key": "SHALBY.NS",
+    "value": "SHALBY.NS"
+  },
+  {
+    "key": "SHALPAINTS.NS",
+    "value": "SHALPAINTS.NS"
+  },
+  {
+    "key": "SHANKARA.NS",
+    "value": "SHANKARA.NS"
+  },
+  {
+    "key": "SHANTIGEAR.NS",
+    "value": "SHANTIGEAR.NS"
+  },
+  {
+    "key": "SHARDACROP.NS",
+    "value": "SHARDACROP.NS"
+  },
+  {
+    "key": "SHARDAMOTR.NS",
+    "value": "SHARDAMOTR.NS"
+  },
+  {
+    "key": "SHAREINDIA.NS",
+    "value": "SHAREINDIA.NS"
+  },
+  {
+    "key": "SHEMAROO.NS",
+    "value": "SHEMAROO.NS"
+  },
+  {
+    "key": "SHIL.NS",
+    "value": "SHIL.NS"
+  },
+  {
+    "key": "SHILPAMED.NS",
+    "value": "SHILPAMED.NS"
+  },
+  {
+    "key": "SHIRPUR-G.NS",
+    "value": "SHIRPUR-G.NS"
+  },
+  {
+    "key": "SHIVAMAUTO.NS",
+    "value": "SHIVAMAUTO.NS"
+  },
+  {
+    "key": "SHIVAMILLS.NS",
+    "value": "SHIVAMILLS.NS"
+  },
+  {
+    "key": "SHIVATEX.NS",
+    "value": "SHIVATEX.NS"
+  },
+  {
+    "key": "SHK.NS",
+    "value": "SHK.NS"
+  },
+  {
+    "key": "SHOPERSTOP.NS",
+    "value": "SHOPERSTOP.NS"
+  },
+  {
+    "key": "SHRADHA.NS",
+    "value": "SHRADHA.NS"
+  },
+  {
+    "key": "SHREDIGCEM.NS",
+    "value": "SHREDIGCEM.NS"
+  },
+  {
+    "key": "SHREECEM.NS",
+    "value": "SHREECEM.NS"
+  },
+  {
+    "key": "SHREEPUSHK.NS",
+    "value": "SHREEPUSHK.NS"
+  },
+  {
+    "key": "SHREERAMA.NS",
+    "value": "SHREERAMA.NS"
+  },
+  {
+    "key": "SHRENIK.NS",
+    "value": "SHRENIK.NS"
+  },
+  {
+    "key": "SHREYANIND.NS",
+    "value": "SHREYANIND.NS"
+  },
+  {
+    "key": "SHREYAS.NS",
+    "value": "SHREYAS.NS"
+  },
+  {
+    "key": "SHRIPISTON.NS",
+    "value": "SHRIPISTON.NS"
+  },
+  {
+    "key": "SHRIRAMCIT.NS",
+    "value": "SHRIRAMCIT.NS"
+  },
+  {
+    "key": "SHRIRAMEPC.NS",
+    "value": "SHRIRAMEPC.NS"
+  },
+  {
+    "key": "SHYAMCENT.NS",
+    "value": "SHYAMCENT.NS"
+  },
+  {
+    "key": "SHYAMTEL.NS",
+    "value": "SHYAMTEL.NS"
+  },
+  {
+    "key": "SICAGEN.NS",
+    "value": "SICAGEN.NS"
+  },
+  {
+    "key": "SICAL.NS",
+    "value": "SICAL.NS"
+  },
+  {
+    "key": "SIEMENS.NS",
+    "value": "SIEMENS.NS"
+  },
+  {
+    "key": "SIGIND.NS",
+    "value": "SIGIND.NS"
+  },
+  {
+    "key": "SIL.NS",
+    "value": "SIL.NS"
+  },
+  {
+    "key": "SILINV.NS",
+    "value": "SILINV.NS"
+  },
+  {
+    "key": "SILLYMONKS.NS",
+    "value": "SILLYMONKS.NS"
+  },
+  {
+    "key": "SIMBHALS.NS",
+    "value": "SIMBHALS.NS"
+  },
+  {
+    "key": "SIMPLEXINF.NS",
+    "value": "SIMPLEXINF.NS"
+  },
+  {
+    "key": "SINTERCOM.NS",
+    "value": "SINTERCOM.NS"
+  },
+  {
+    "key": "SINTEX.NS",
+    "value": "SINTEX.NS"
+  },
+  {
+    "key": "SIRCA.NS",
+    "value": "SIRCA.NS"
+  },
+  {
+    "key": "SIS.NS",
+    "value": "SIS.NS"
+  },
+  {
+    "key": "SITINET.NS",
+    "value": "SITINET.NS"
+  },
+  {
+    "key": "SIYSIL.NS",
+    "value": "SIYSIL.NS"
+  },
+  {
+    "key": "SJVN.NS",
+    "value": "SJVN.NS"
+  },
+  {
+    "key": "SKFINDIA.NS",
+    "value": "SKFINDIA.NS"
+  },
+  {
+    "key": "SKIL.NS",
+    "value": "SKIL.NS"
+  },
+  {
+    "key": "SKIPPER.NS",
+    "value": "SKIPPER.NS"
+  },
+  {
+    "key": "SKMEGGPROD.NS",
+    "value": "SKMEGGPROD.NS"
+  },
+  {
+    "key": "SMARTLINK.NS",
+    "value": "SMARTLINK.NS"
+  },
+  {
+    "key": "SMLISUZU.NS",
+    "value": "SMLISUZU.NS"
+  },
+  {
+    "key": "SMPL.NS",
+    "value": "SMPL.NS"
+  },
+  {
+    "key": "SMSLIFE.NS",
+    "value": "SMSLIFE.NS"
+  },
+  {
+    "key": "SMSPHARMA.NS",
+    "value": "SMSPHARMA.NS"
+  },
+  {
+    "key": "SNOWMAN.NS",
+    "value": "SNOWMAN.NS"
+  },
+  {
+    "key": "SOBHA.NS",
+    "value": "SOBHA.NS"
+  },
+  {
+    "key": "SOLARA.NS",
+    "value": "SOLARA.NS"
+  },
+  {
+    "key": "SOLARINDS.NS",
+    "value": "SOLARINDS.NS"
+  },
+  {
+    "key": "SOMANYCERA.NS",
+    "value": "SOMANYCERA.NS"
+  },
+  {
+    "key": "SOMATEX.NS",
+    "value": "SOMATEX.NS"
+  },
+  {
+    "key": "SOMICONVEY.NS",
+    "value": "SOMICONVEY.NS"
+  },
+  {
+    "key": "SONATSOFTW.NS",
+    "value": "SONATSOFTW.NS"
+  },
+  {
+    "key": "SORILINFRA.NS",
+    "value": "SORILINFRA.NS"
+  },
+  {
+    "key": "SOTL.NS",
+    "value": "SOTL.NS"
+  },
+  {
+    "key": "SOUTHBANK.NS",
+    "value": "SOUTHBANK.NS"
+  },
+  {
+    "key": "SOUTHWEST.NS",
+    "value": "SOUTHWEST.NS"
+  },
+  {
+    "key": "SPAL.NS",
+    "value": "SPAL.NS"
+  },
+  {
+    "key": "SPANDANA.NS",
+    "value": "SPANDANA.NS"
+  },
+  {
+    "key": "SPARC.NS",
+    "value": "SPARC.NS"
+  },
+  {
+    "key": "SPECIALITY.NS",
+    "value": "SPECIALITY.NS"
+  },
+  {
+    "key": "SPENCERS.NS",
+    "value": "SPENCERS.NS"
+  },
+  {
+    "key": "SPENTEX.NS",
+    "value": "SPENTEX.NS"
+  },
+  {
+    "key": "SPIC.NS",
+    "value": "SPIC.NS"
+  },
+  {
+    "key": "SPICEJET.NS",
+    "value": "SPICEJET.NS"
+  },
+  {
+    "key": "SPLIL.NS",
+    "value": "SPLIL.NS"
+  },
+  {
+    "key": "SPMLINFRA.NS",
+    "value": "SPMLINFRA.NS"
+  },
+  {
+    "key": "SPTL.NS",
+    "value": "SPTL.NS"
+  },
+  {
+    "key": "SREEL.NS",
+    "value": "SREEL.NS"
+  },
+  {
+    "key": "SREINFRA.NS",
+    "value": "SREINFRA.NS"
+  },
+  {
+    "key": "SRF.NS",
+    "value": "SRF.NS"
+  },
+  {
+    "key": "SRHHYPOLTD.NS",
+    "value": "SRHHYPOLTD.NS"
+  },
+  {
+    "key": "SRIPIPES.NS",
+    "value": "SRIPIPES.NS"
+  },
+  {
+    "key": "SRPL.NS",
+    "value": "SRPL.NS"
+  },
+  {
+    "key": "SRTRANSFIN.NS",
+    "value": "SRTRANSFIN.NS"
+  },
+  {
+    "key": "SSWL.NS",
+    "value": "SSWL.NS"
+  },
+  {
+    "key": "STAR.NS",
+    "value": "STAR.NS"
+  },
+  {
+    "key": "STARCEMENT.NS",
+    "value": "STARCEMENT.NS"
+  },
+  {
+    "key": "STARPAPER.NS",
+    "value": "STARPAPER.NS"
+  },
+  {
+    "key": "STCINDIA.NS",
+    "value": "STCINDIA.NS"
+  },
+  {
+    "key": "STEELCITY.NS",
+    "value": "STEELCITY.NS"
+  },
+  {
+    "key": "STEELXIND.NS",
+    "value": "STEELXIND.NS"
+  },
+  {
+    "key": "STEL.NS",
+    "value": "STEL.NS"
+  },
+  {
+    "key": "STERTOOLS.NS",
+    "value": "STERTOOLS.NS"
+  },
+  {
+    "key": "STLTECH.NS",
+    "value": "STLTECH.NS"
+  },
+  {
+    "key": "SUBCAPCITY.NS",
+    "value": "SUBCAPCITY.NS"
+  },
+  {
+    "key": "SUBEXLTD.NS",
+    "value": "SUBEXLTD.NS"
+  },
+  {
+    "key": "SUBROS.NS",
+    "value": "SUBROS.NS"
+  },
+  {
+    "key": "SUDARSCHEM.NS",
+    "value": "SUDARSCHEM.NS"
+  },
+  {
+    "key": "SUJANAUNI.NS",
+    "value": "SUJANAUNI.NS"
+  },
+  {
+    "key": "SUMICHEM.NS",
+    "value": "SUMICHEM.NS"
+  },
+  {
+    "key": "SUMIT.NS",
+    "value": "SUMIT.NS"
+  },
+  {
+    "key": "SUMMITSEC.NS",
+    "value": "SUMMITSEC.NS"
+  },
+  {
+    "key": "SUNCLAYLTD.NS",
+    "value": "SUNCLAYLTD.NS"
+  },
+  {
+    "key": "SUNDARAM.NS",
+    "value": "SUNDARAM.NS"
+  },
+  {
+    "key": "SUNDARMFIN.NS",
+    "value": "SUNDARMFIN.NS"
+  },
+  {
+    "key": "SUNDARMHLD.NS",
+    "value": "SUNDARMHLD.NS"
+  },
+  {
+    "key": "SUNDRMBRAK.NS",
+    "value": "SUNDRMBRAK.NS"
+  },
+  {
+    "key": "SUNDRMFAST.NS",
+    "value": "SUNDRMFAST.NS"
+  },
+  {
+    "key": "SUNFLAG.NS",
+    "value": "SUNFLAG.NS"
+  },
+  {
+    "key": "SUNPHARMA.NS",
+    "value": "SUNPHARMA.NS"
+  },
+  {
+    "key": "SUNTECK.NS",
+    "value": "SUNTECK.NS"
+  },
+  {
+    "key": "SUNTV.NS",
+    "value": "SUNTV.NS"
+  },
+  {
+    "key": "SUPERHOUSE.NS",
+    "value": "SUPERHOUSE.NS"
+  },
+  {
+    "key": "SUPERSPIN.NS",
+    "value": "SUPERSPIN.NS"
+  },
+  {
+    "key": "SUPPETRO.NS",
+    "value": "SUPPETRO.NS"
+  },
+  {
+    "key": "SUPRAJIT.NS",
+    "value": "SUPRAJIT.NS"
+  },
+  {
+    "key": "SUPREMEENG.NS",
+    "value": "SUPREMEENG.NS"
+  },
+  {
+    "key": "SUPREMEIND.NS",
+    "value": "SUPREMEIND.NS"
+  },
+  {
+    "key": "SUPREMEINF.NS",
+    "value": "SUPREMEINF.NS"
+  },
+  {
+    "key": "SURANASOL.NS",
+    "value": "SURANASOL.NS"
+  },
+  {
+    "key": "SURANAT&P.NS",
+    "value": "SURANAT&P.NS"
+  },
+  {
+    "key": "SURYALAXMI.NS",
+    "value": "SURYALAXMI.NS"
+  },
+  {
+    "key": "SURYAROSNI.NS",
+    "value": "SURYAROSNI.NS"
+  },
+  {
+    "key": "SUTLEJTEX.NS",
+    "value": "SUTLEJTEX.NS"
+  },
+  {
+    "key": "SUULD.NS",
+    "value": "SUULD.NS"
+  },
+  {
+    "key": "SUVEN.NS",
+    "value": "SUVEN.NS"
+  },
+  {
+    "key": "SUVENPHAR.NS",
+    "value": "SUVENPHAR.NS"
+  },
+  {
+    "key": "SUZLON.NS",
+    "value": "SUZLON.NS"
+  },
+  {
+    "key": "SWANENERGY.NS",
+    "value": "SWANENERGY.NS"
+  },
+  {
+    "key": "SWARAJENG.NS",
+    "value": "SWARAJENG.NS"
+  },
+  {
+    "key": "SWELECTES.NS",
+    "value": "SWELECTES.NS"
+  },
+  {
+    "key": "SWSOLAR.NS",
+    "value": "SWSOLAR.NS"
+  },
+  {
+    "key": "SYMPHONY.NS",
+    "value": "SYMPHONY.NS"
+  },
+  {
+    "key": "SYNCOM.NS",
+    "value": "SYNCOM.NS"
+  },
+  {
+    "key": "SYNGENE.NS",
+    "value": "SYNGENE.NS"
+  },
+  {
+    "key": "TAINWALCHM.NS",
+    "value": "TAINWALCHM.NS"
+  },
+  {
+    "key": "TAJGVK.NS",
+    "value": "TAJGVK.NS"
+  },
+  {
+    "key": "TAKE.NS",
+    "value": "TAKE.NS"
+  },
+  {
+    "key": "TALBROAUTO.NS",
+    "value": "TALBROAUTO.NS"
+  },
+  {
+    "key": "TANLA.NS",
+    "value": "TANLA.NS"
+  },
+  {
+    "key": "TANTIACONS.NS",
+    "value": "TANTIACONS.NS"
+  },
+  {
+    "key": "TARC.NS",
+    "value": "TARC.NS"
+  },
+  {
+    "key": "TARMAT.NS",
+    "value": "TARMAT.NS"
+  },
+  {
+    "key": "TASTYBITE.NS",
+    "value": "TASTYBITE.NS"
+  },
+  {
+    "key": "TATACHEM.NS",
+    "value": "TATACHEM.NS"
+  },
+  {
+    "key": "TATACOFFEE.NS",
+    "value": "TATACOFFEE.NS"
+  },
+  {
+    "key": "TATACOMM.NS",
+    "value": "TATACOMM.NS"
+  },
+  {
+    "key": "TATACONSUM.NS",
+    "value": "TATACONSUM.NS"
+  },
+  {
+    "key": "TATAELXSI.NS",
+    "value": "TATAELXSI.NS"
+  },
+  {
+    "key": "TATAINVEST.NS",
+    "value": "TATAINVEST.NS"
+  },
+  {
+    "key": "TATAMETALI.NS",
+    "value": "TATAMETALI.NS"
+  },
+  {
+    "key": "TATAMOTORS.NS",
+    "value": "TATAMOTORS.NS"
+  },
+  {
+    "key": "TATAMTRDVR.NS",
+    "value": "TATAMTRDVR.NS"
+  },
+  {
+    "key": "TATAPOWER.NS",
+    "value": "TATAPOWER.NS"
+  },
+  {
+    "key": "TATASTEEL.NS",
+    "value": "TATASTEEL.NS"
+  },
+  {
+    "key": "TATASTLBSL.NS",
+    "value": "TATASTLBSL.NS"
+  },
+  {
+    "key": "TATASTLLP.NS",
+    "value": "TATASTLLP.NS"
+  },
+  {
+    "key": "TBZ.NS",
+    "value": "TBZ.NS"
+  },
+  {
+    "key": "TCI.NS",
+    "value": "TCI.NS"
+  },
+  {
+    "key": "TCIDEVELOP.NS",
+    "value": "TCIDEVELOP.NS"
+  },
+  {
+    "key": "TCIEXP.NS",
+    "value": "TCIEXP.NS"
+  },
+  {
+    "key": "TCIFINANCE.NS",
+    "value": "TCIFINANCE.NS"
+  },
+  {
+    "key": "TCNSBRANDS.NS",
+    "value": "TCNSBRANDS.NS"
+  },
+  {
+    "key": "TCPLPACK.NS",
+    "value": "TCPLPACK.NS"
+  },
+  {
+    "key": "TCS.NS",
+    "value": "TCS.NS"
+  },
+  {
+    "key": "TDPOWERSYS.NS",
+    "value": "TDPOWERSYS.NS"
+  },
+  {
+    "key": "TEAMLEASE.NS",
+    "value": "TEAMLEASE.NS"
+  },
+  {
+    "key": "TECHIN.NS",
+    "value": "TECHIN.NS"
+  },
+  {
+    "key": "TECHM.NS",
+    "value": "TECHM.NS"
+  },
+  {
+    "key": "TECHNOE.NS",
+    "value": "TECHNOE.NS"
+  },
+  {
+    "key": "TECHNOFAB.NS",
+    "value": "TECHNOFAB.NS"
+  },
+  {
+    "key": "TEJASNET.NS",
+    "value": "TEJASNET.NS"
+  },
+  {
+    "key": "TERASOFT.NS",
+    "value": "TERASOFT.NS"
+  },
+  {
+    "key": "TEXINFRA.NS",
+    "value": "TEXINFRA.NS"
+  },
+  {
+    "key": "TEXMOPIPES.NS",
+    "value": "TEXMOPIPES.NS"
+  },
+  {
+    "key": "TEXRAIL.NS",
+    "value": "TEXRAIL.NS"
+  },
+  {
+    "key": "TFCILTD.NS",
+    "value": "TFCILTD.NS"
+  },
+  {
+    "key": "TFL.NS",
+    "value": "TFL.NS"
+  },
+  {
+    "key": "TGBHOTELS.NS",
+    "value": "TGBHOTELS.NS"
+  },
+  {
+    "key": "THANGAMAYL.NS",
+    "value": "THANGAMAYL.NS"
+  },
+  {
+    "key": "THEINVEST.NS",
+    "value": "THEINVEST.NS"
+  },
+  {
+    "key": "THEMISMED.NS",
+    "value": "THEMISMED.NS"
+  },
+  {
+    "key": "THERMAX.NS",
+    "value": "THERMAX.NS"
+  },
+  {
+    "key": "THIRUSUGAR.NS",
+    "value": "THIRUSUGAR.NS"
+  },
+  {
+    "key": "THOMASCOOK.NS",
+    "value": "THOMASCOOK.NS"
+  },
+  {
+    "key": "THOMASCOTT.NS",
+    "value": "THOMASCOTT.NS"
+  },
+  {
+    "key": "THYROCARE.NS",
+    "value": "THYROCARE.NS"
+  },
+  {
+    "key": "TI.NS",
+    "value": "TI.NS"
+  },
+  {
+    "key": "TIDEWATER.NS",
+    "value": "TIDEWATER.NS"
+  },
+  {
+    "key": "TIIL.NS",
+    "value": "TIIL.NS"
+  },
+  {
+    "key": "TIINDIA.NS",
+    "value": "TIINDIA.NS"
+  },
+  {
+    "key": "TIJARIA.NS",
+    "value": "TIJARIA.NS"
+  },
+  {
+    "key": "TIL.NS",
+    "value": "TIL.NS"
+  },
+  {
+    "key": "TIMESGTY.NS",
+    "value": "TIMESGTY.NS"
+  },
+  {
+    "key": "TIMETECHNO.NS",
+    "value": "TIMETECHNO.NS"
+  },
+  {
+    "key": "TIMKEN.NS",
+    "value": "TIMKEN.NS"
+  },
+  {
+    "key": "TINPLATE.NS",
+    "value": "TINPLATE.NS"
+  },
+  {
+    "key": "TIPSINDLTD.NS",
+    "value": "TIPSINDLTD.NS"
+  },
+  {
+    "key": "TIRUMALCHM.NS",
+    "value": "TIRUMALCHM.NS"
+  },
+  {
+    "key": "TIRUPATIFL.NS",
+    "value": "TIRUPATIFL.NS"
+  },
+  {
+    "key": "TITAN.NS",
+    "value": "TITAN.NS"
+  },
+  {
+    "key": "TMRVL.NS",
+    "value": "TMRVL.NS"
+  },
+  {
+    "key": "TNPETRO.NS",
+    "value": "TNPETRO.NS"
+  },
+  {
+    "key": "TNPL.NS",
+    "value": "TNPL.NS"
+  },
+  {
+    "key": "TNTELE.NS",
+    "value": "TNTELE.NS"
+  },
+  {
+    "key": "TOKYOPLAST.NS",
+    "value": "TOKYOPLAST.NS"
+  },
+  {
+    "key": "TORNTPHARM.NS",
+    "value": "TORNTPHARM.NS"
+  },
+  {
+    "key": "TORNTPOWER.NS",
+    "value": "TORNTPOWER.NS"
+  },
+  {
+    "key": "TOTAL.NS",
+    "value": "TOTAL.NS"
+  },
+  {
+    "key": "TOUCHWOOD.NS",
+    "value": "TOUCHWOOD.NS"
+  },
+  {
+    "key": "TPLPLASTEH.NS",
+    "value": "TPLPLASTEH.NS"
+  },
+  {
+    "key": "TREEHOUSE.NS",
+    "value": "TREEHOUSE.NS"
+  },
+  {
+    "key": "TREJHARA.NS",
+    "value": "TREJHARA.NS"
+  },
+  {
+    "key": "TRENT.NS",
+    "value": "TRENT.NS"
+  },
+  {
+    "key": "TRF.NS",
+    "value": "TRF.NS"
+  },
+  {
+    "key": "TRIDENT.NS",
+    "value": "TRIDENT.NS"
+  },
+  {
+    "key": "TRIGYN.NS",
+    "value": "TRIGYN.NS"
+  },
+  {
+    "key": "TRIL.NS",
+    "value": "TRIL.NS"
+  },
+  {
+    "key": "TRITURBINE.NS",
+    "value": "TRITURBINE.NS"
+  },
+  {
+    "key": "TRIVENI.NS",
+    "value": "TRIVENI.NS"
+  },
+  {
+    "key": "TTKHLTCARE.NS",
+    "value": "TTKHLTCARE.NS"
+  },
+  {
+    "key": "TTKPRESTIG.NS",
+    "value": "TTKPRESTIG.NS"
+  },
+  {
+    "key": "TTL.NS",
+    "value": "TTL.NS"
+  },
+  {
+    "key": "TTML.NS",
+    "value": "TTML.NS"
+  },
+  {
+    "key": "TV18BRDCST.NS",
+    "value": "TV18BRDCST.NS"
+  },
+  {
+    "key": "TVSELECT.NS",
+    "value": "TVSELECT.NS"
+  },
+  {
+    "key": "TVSMOTOR.NS",
+    "value": "TVSMOTOR.NS"
+  },
+  {
+    "key": "TVSSRICHAK.NS",
+    "value": "TVSSRICHAK.NS"
+  },
+  {
+    "key": "TVTODAY.NS",
+    "value": "TVTODAY.NS"
+  },
+  {
+    "key": "TVVISION.NS",
+    "value": "TVVISION.NS"
+  },
+  {
+    "key": "TWL.NS",
+    "value": "TWL.NS"
+  },
+  {
+    "key": "UBL.NS",
+    "value": "UBL.NS"
+  },
+  {
+    "key": "UCALFUEL.NS",
+    "value": "UCALFUEL.NS"
+  },
+  {
+    "key": "UCOBANK.NS",
+    "value": "UCOBANK.NS"
+  },
+  {
+    "key": "UFLEX.NS",
+    "value": "UFLEX.NS"
+  },
+  {
+    "key": "UFO.NS",
+    "value": "UFO.NS"
+  },
+  {
+    "key": "UGARSUGAR.NS",
+    "value": "UGARSUGAR.NS"
+  },
+  {
+    "key": "UJAAS.NS",
+    "value": "UJAAS.NS"
+  },
+  {
+    "key": "UJJIVAN.NS",
+    "value": "UJJIVAN.NS"
+  },
+  {
+    "key": "UJJIVANSFB.NS",
+    "value": "UJJIVANSFB.NS"
+  },
+  {
+    "key": "ULTRACEMCO.NS",
+    "value": "ULTRACEMCO.NS"
+  },
+  {
+    "key": "UMANGDAIRY.NS",
+    "value": "UMANGDAIRY.NS"
+  },
+  {
+    "key": "UMESLTD.NS",
+    "value": "UMESLTD.NS"
+  },
+  {
+    "key": "UNICHEMLAB.NS",
+    "value": "UNICHEMLAB.NS"
+  },
+  {
+    "key": "UNIDT.NS",
+    "value": "UNIDT.NS"
+  },
+  {
+    "key": "UNIENTER.NS",
+    "value": "UNIENTER.NS"
+  },
+  {
+    "key": "UNIONBANK.NS",
+    "value": "UNIONBANK.NS"
+  },
+  {
+    "key": "UNITECH.NS",
+    "value": "UNITECH.NS"
+  },
+  {
+    "key": "UNITEDTEA.NS",
+    "value": "UNITEDTEA.NS"
+  },
+  {
+    "key": "UNITY.NS",
+    "value": "UNITY.NS"
+  },
+  {
+    "key": "UNIVASTU.NS",
+    "value": "UNIVASTU.NS"
+  },
+  {
+    "key": "UNIVCABLES.NS",
+    "value": "UNIVCABLES.NS"
+  },
+  {
+    "key": "UNIVPHOTO.NS",
+    "value": "UNIVPHOTO.NS"
+  },
+  {
+    "key": "UPL.NS",
+    "value": "UPL.NS"
+  },
+  {
+    "key": "URJA.NS",
+    "value": "URJA.NS"
+  },
+  {
+    "key": "USHAMART.NS",
+    "value": "USHAMART.NS"
+  },
+  {
+    "key": "UTIAMC.NS",
+    "value": "UTIAMC.NS"
+  },
+  {
+    "key": "UTTAMSTL.NS",
+    "value": "UTTAMSTL.NS"
+  },
+  {
+    "key": "UTTAMSUGAR.NS",
+    "value": "UTTAMSUGAR.NS"
+  },
+  {
+    "key": "V2RETAIL.NS",
+    "value": "V2RETAIL.NS"
+  },
+  {
+    "key": "VADILALIND.NS",
+    "value": "VADILALIND.NS"
+  },
+  {
+    "key": "VAIBHAVGBL.NS",
+    "value": "VAIBHAVGBL.NS"
+  },
+  {
+    "key": "VAISHALI.NS",
+    "value": "VAISHALI.NS"
+  },
+  {
+    "key": "VAKRANGEE.NS",
+    "value": "VAKRANGEE.NS"
+  },
+  {
+    "key": "VALIANTORG.NS",
+    "value": "VALIANTORG.NS"
+  },
+  {
+    "key": "VARDHACRLC.NS",
+    "value": "VARDHACRLC.NS"
+  },
+  {
+    "key": "VARDMNPOLY.NS",
+    "value": "VARDMNPOLY.NS"
+  },
+  {
+    "key": "VARROC.NS",
+    "value": "VARROC.NS"
+  },
+  {
+    "key": "VASCONEQ.NS",
+    "value": "VASCONEQ.NS"
+  },
+  {
+    "key": "VASWANI.NS",
+    "value": "VASWANI.NS"
+  },
+  {
+    "key": "VBL.NS",
+    "value": "VBL.NS"
+  },
+  {
+    "key": "VEDL.NS",
+    "value": "VEDL.NS"
+  },
+  {
+    "key": "VENKEYS.NS",
+    "value": "VENKEYS.NS"
+  },
+  {
+    "key": "VENUSREM.NS",
+    "value": "VENUSREM.NS"
+  },
+  {
+    "key": "VERTOZ.NS",
+    "value": "VERTOZ.NS"
+  },
+  {
+    "key": "VESUVIUS.NS",
+    "value": "VESUVIUS.NS"
+  },
+  {
+    "key": "VETO.NS",
+    "value": "VETO.NS"
+  },
+  {
+    "key": "VGUARD.NS",
+    "value": "VGUARD.NS"
+  },
+  {
+    "key": "VHL.NS",
+    "value": "VHL.NS"
+  },
+  {
+    "key": "VICEROY.NS",
+    "value": "VICEROY.NS"
+  },
+  {
+    "key": "VIDEOIND.NS",
+    "value": "VIDEOIND.NS"
+  },
+  {
+    "key": "VIDHIING.NS",
+    "value": "VIDHIING.NS"
+  },
+  {
+    "key": "VIJIFIN.NS",
+    "value": "VIJIFIN.NS"
+  },
+  {
+    "key": "VIKASECO.NS",
+    "value": "VIKASECO.NS"
+  },
+  {
+    "key": "VIKASMCORP.NS",
+    "value": "VIKASMCORP.NS"
+  },
+  {
+    "key": "VIKASPROP.NS",
+    "value": "VIKASPROP.NS"
+  },
+  {
+    "key": "VIKASWSP.NS",
+    "value": "VIKASWSP.NS"
+  },
+  {
+    "key": "VIMTALABS.NS",
+    "value": "VIMTALABS.NS"
+  },
+  {
+    "key": "VINATIORGA.NS",
+    "value": "VINATIORGA.NS"
+  },
+  {
+    "key": "VINDHYATEL.NS",
+    "value": "VINDHYATEL.NS"
+  },
+  {
+    "key": "VINYLINDIA.NS",
+    "value": "VINYLINDIA.NS"
+  },
+  {
+    "key": "VIPCLOTHNG.NS",
+    "value": "VIPCLOTHNG.NS"
+  },
+  {
+    "key": "VIPIND.NS",
+    "value": "VIPIND.NS"
+  },
+  {
+    "key": "VIPULLTD.NS",
+    "value": "VIPULLTD.NS"
+  },
+  {
+    "key": "VISAKAIND.NS",
+    "value": "VISAKAIND.NS"
+  },
+  {
+    "key": "VISASTEEL.NS",
+    "value": "VISASTEEL.NS"
+  },
+  {
+    "key": "VISHAL.NS",
+    "value": "VISHAL.NS"
+  },
+  {
+    "key": "VISHNU.NS",
+    "value": "VISHNU.NS"
+  },
+  {
+    "key": "VISHWARAJ.NS",
+    "value": "VISHWARAJ.NS"
+  },
+  {
+    "key": "VIVIDHA.NS",
+    "value": "VIVIDHA.NS"
+  },
+  {
+    "key": "VIVIMEDLAB.NS",
+    "value": "VIVIMEDLAB.NS"
+  },
+  {
+    "key": "VLSFINANCE.NS",
+    "value": "VLSFINANCE.NS"
+  },
+  {
+    "key": "VMART.NS",
+    "value": "VMART.NS"
+  },
+  {
+    "key": "VOLTAMP.NS",
+    "value": "VOLTAMP.NS"
+  },
+  {
+    "key": "VOLTAS.NS",
+    "value": "VOLTAS.NS"
+  },
+  {
+    "key": "VRLLOG.NS",
+    "value": "VRLLOG.NS"
+  },
+  {
+    "key": "VSSL.NS",
+    "value": "VSSL.NS"
+  },
+  {
+    "key": "VSTIND.NS",
+    "value": "VSTIND.NS"
+  },
+  {
+    "key": "VSTTILLERS.NS",
+    "value": "VSTTILLERS.NS"
+  },
+  {
+    "key": "VTL.NS",
+    "value": "VTL.NS"
+  },
+  {
+    "key": "WABAG.NS",
+    "value": "WABAG.NS"
+  },
+  {
+    "key": "WABCOINDIA.NS",
+    "value": "WABCOINDIA.NS"
+  },
+  {
+    "key": "WALCHANNAG.NS",
+    "value": "WALCHANNAG.NS"
+  },
+  {
+    "key": "WANBURY.NS",
+    "value": "WANBURY.NS"
+  },
+  {
+    "key": "WATERBASE.NS",
+    "value": "WATERBASE.NS"
+  },
+  {
+    "key": "WEBELSOLAR.NS",
+    "value": "WEBELSOLAR.NS"
+  },
+  {
+    "key": "WEIZMANIND.NS",
+    "value": "WEIZMANIND.NS"
+  },
+  {
+    "key": "WELCORP.NS",
+    "value": "WELCORP.NS"
+  },
+  {
+    "key": "WELENT.NS",
+    "value": "WELENT.NS"
+  },
+  {
+    "key": "WELINV.NS",
+    "value": "WELINV.NS"
+  },
+  {
+    "key": "WELSPUNIND.NS",
+    "value": "WELSPUNIND.NS"
+  },
+  {
+    "key": "WENDT.NS",
+    "value": "WENDT.NS"
+  },
+  {
+    "key": "WESTLIFE.NS",
+    "value": "WESTLIFE.NS"
+  },
+  {
+    "key": "WHEELS.NS",
+    "value": "WHEELS.NS"
+  },
+  {
+    "key": "WHIRLPOOL.NS",
+    "value": "WHIRLPOOL.NS"
+  },
+  {
+    "key": "WILLAMAGOR.NS",
+    "value": "WILLAMAGOR.NS"
+  },
+  {
+    "key": "WINDMACHIN.NS",
+    "value": "WINDMACHIN.NS"
+  },
+  {
+    "key": "WIPL.NS",
+    "value": "WIPL.NS"
+  },
+  {
+    "key": "WIPRO.NS",
+    "value": "WIPRO.NS"
+  },
+  {
+    "key": "WOCKPHARMA.NS",
+    "value": "WOCKPHARMA.NS"
+  },
+  {
+    "key": "WONDERLA.NS",
+    "value": "WONDERLA.NS"
+  },
+  {
+    "key": "WORTH.NS",
+    "value": "WORTH.NS"
+  },
+  {
+    "key": "WSI.NS",
+    "value": "WSI.NS"
+  },
+  {
+    "key": "WSTCSTPAPR.NS",
+    "value": "WSTCSTPAPR.NS"
+  },
+  {
+    "key": "XCHANGING.NS",
+    "value": "XCHANGING.NS"
+  },
+  {
+    "key": "XELPMOC.NS",
+    "value": "XELPMOC.NS"
+  },
+  {
+    "key": "XPROINDIA.NS",
+    "value": "XPROINDIA.NS"
+  },
+  {
+    "key": "YAARII.NS",
+    "value": "YAARII.NS"
+  },
+  {
+    "key": "YESBANK.NS",
+    "value": "YESBANK.NS"
+  },
+  {
+    "key": "ZEEL.NS",
+    "value": "ZEEL.NS"
+  },
+  {
+    "key": "ZEELEARN.NS",
+    "value": "ZEELEARN.NS"
+  },
+  {
+    "key": "ZEEMEDIA.NS",
+    "value": "ZEEMEDIA.NS"
+  },
+  {
+    "key": "ZENITHEXPO.NS",
+    "value": "ZENITHEXPO.NS"
+  },
+  {
+    "key": "ZENITHSTL.NS",
+    "value": "ZENITHSTL.NS"
+  },
+  {
+    "key": "ZENSARTECH.NS",
+    "value": "ZENSARTECH.NS"
+  },
+  {
+    "key": "ZENTEC.NS",
+    "value": "ZENTEC.NS"
+  },
+  {
+    "key": "ZICOM.NS",
+    "value": "ZICOM.NS"
+  },
+  {
+    "key": "ZODIACLOTH.NS",
+    "value": "ZODIACLOTH.NS"
+  },
+  {
+    "key": "ZODJRDMKJ.NS",
+    "value": "ZODJRDMKJ.NS"
+  },
+  {
+    "key": "ZOTA.NS",
+    "value": "ZOTA.NS"
+  },
+  {
+    "key": "ZUARI.NS",
+    "value": "ZUARI.NS"
+  },
+  {
+    "key": "ZUARIGLOB.NS",
+    "value": "ZUARIGLOB.NS"
+  },
+  {
+    "key": "ZYDUSWELL.NS",
+    "value": "ZYDUSWELL.NS"
+  }
+]

@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.main-container{
+    display: flex;
+}
+
+body{
+    background-color:#e4e4e4;
+}
+
+.header{
+    width: 100vw;
+    height: 10vh;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #194980;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.search-container{
+    height: 80vh;
+    padding: 5px;
+    width: 20vw;
+    padding-top: 10px;
+    background-color: white;
+    margin: 15px;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.search-header{
+    color: #363062;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.chart-container{
+    height: 80vh;
+    width: 60vw;
+    background-color: white;
+    margin: 15px;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.news-container{
+    height: 80vh;
+    margin: 15px;
+    padding: 15px;
+    width: 20vw;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.news-header{
+    color: #363062;
+    font-weight: bolder;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.search-form{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.submit-btn{
+    font-size: 16px;
+    padding: 8px;
+    background-color: white;
+    color: rgb(23, 23, 66);
+    font-weight: 900;
+    border: 2px solid rgb(23, 23, 66);
+    height: 40px;
+    border-radius: 8px;
+}
+
+.submit-btn:hover{
+    background-color: rgb(23, 23, 66);
+    color: white;
+    cursor: pointer;
+}
+
+.news-card-container{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 3px 8px;
+    margin: 10px 2px;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.news-card-container:hover{
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.news-link{
+    text-decoration: none;
+    color: #194980;
+    font-weight: bold;
+}
+
+.news-link:visited{
+    text-decoration: none;
+    color: #194980;
+    font-weight: bold;
+}
+
+.news-text{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
